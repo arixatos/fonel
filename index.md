@@ -1,5 +1,5 @@
 ---
-title: Fonel 概要
+title: 概要
 layout: home	#ヒーローセクションつきホームページレイアウト
 ---
 
