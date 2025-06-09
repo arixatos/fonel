@@ -1,5 +1,12 @@
-markdown: kramdown
 title: 人工言語 Fonel
+remote_theme: pages-themes/slate
 plugins:
   - jekyll-remote-theme
-remote_theme: pages-themes/minimal
+
+nav_order:
+  - index.md
+  - phonology.md
+  - nouns.md
+  - verbs.md
+
+
