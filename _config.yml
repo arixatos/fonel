@@ -1,2 +1,15 @@
 title: 人工言語 Fonel
 theme: just-the-docs
+
+# 必須ではないけど推奨
+plugins:
+  - jekyll-feed
+
+# ページのトップメニューに表示したいリンク
+navbar:
+  title: Fonel Project
+  logo:
+    path: assets/img/logo.png
+  links:
+    - title: GitHub
+      url: https://github.com/arixatos/fonel
