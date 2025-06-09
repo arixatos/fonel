@@ -1,5 +1,8 @@
 title: 人工言語 Fonel
-theme: just-the-docs
+
+##theme: just-the-docs
+theme: minima  
+
 plugins:
   - jekyll-feed
 nav_enabled: true
