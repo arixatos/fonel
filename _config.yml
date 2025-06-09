@@ -1,5 +1,4 @@
 markdown: kramdown
-theme: minima
 title: 人工言語 Fonel
 plugins:
   - jekyll-remote-theme
