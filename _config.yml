@@ -1,9 +1,18 @@
-title: Fonel
-description: A starter template for a Jeykll site using the Just the Docs theme!
-theme: just-the-docs
+title: 人工言語 Fonel(フォネル)        # サイト全体のタイトル。ブラウザのタブやSEOで使われます
+description: 人工言語 Fonel(フォネル) のサイト  # サイトの説明文。検索エンジンなどに使われます
 
-url: https://arixatos.github.io
-baseurl: /fonel
+theme: just-the-docs                    # Jekyllテーマ名。ここでは「just-the-docs」を使用
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+url: https://arixatos.github.io        # サイトの基本URL。GitHub PagesのURLを指定
+baseurl: /fonel                        # サイトのベースパス。リポジトリ名に合わせて設定
+
+navbar:                               # ナビゲーションバー設定ブロック
+  title: Fonel                        # ナビバー左上に表示されるサイトタイトル（ロゴ横のテキスト）
+  logo:
+    path: assets/img/logo.png          # ナビバーに表示するロゴ画像のパス
+  links:                             # ナビバーに表示するリンクリスト
+    - title: GitHub                  # 表示名
+      url: https://github.com/arixatos/fonel  # リンク先URL
+
+aux_links:                           # サイトの補助的なリンク群（フッターなどに表示されることも）
+  Template Repository: https://github.com/just-the-docs/just-the-docs-template  # テンプレートのGitHubリポジトリURL
