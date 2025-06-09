@@ -1,11 +1,12 @@
 title: 人工言語 Fonel
 theme: just-the-docs
-
-# 必須ではないけど推奨
 plugins:
   - jekyll-feed
 
-# ページのトップメニューに表示したいリンク
+# GitHub PagesのURLに合わせて設定
+baseurl: "/fonel"  # ここはリポジトリ名に置き換えてください
+url: "https://arixatos.github.io"
+
 navbar:
   title: Fonel Project
   logo:
