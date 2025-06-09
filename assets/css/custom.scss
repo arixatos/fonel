@@ -1,0 +1,13 @@
+/* 広く表示するためのカスタマイズ */
+.main-content {
+  max-width: 100%;
+  width: 90%; /* ページ幅の90%を使う */
+  margin-left: auto;
+  margin-right: auto;
+}
+
+@media (min-width: 1200px) {
+  .main-content {
+    width: 1000px; /* 極端に広くなりすぎないよう制限 */
+  }
+}
