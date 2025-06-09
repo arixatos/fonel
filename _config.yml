@@ -2,8 +2,8 @@ title: "人工言語 Fonel"        # サイト全体のタイトル。ブラウ�
 description: 人工言語 Fonel(フォネル) のサイト  # サイトの説明文。検索エンジンなどに使われます
 
 # Just the Docs 設定
-theme: just-the-docs		# Jekyllテーマ名。ここでは「just-the-docs」を使用
-
+########theme: just-the-docs		# Jekyllテーマ名。ここでは「just-the-docs」を使用
+remote_theme: just-the-docs/just-the-docs
 
 # カスタムCSSの読み込み
 ######sass:
