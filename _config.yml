@@ -7,7 +7,8 @@ theme: just-the-docs		# Jekyllテーマ名。ここでは「just-the-docs」を�
 
 # カスタムCSSの読み込み
 sass:
-  custom_css: assets/css/custom.scss
+######  custom_css: assets/css/custom.scss
+  custom_css: assets/css/custom.css
 
 
 url: https://arixatos.github.io		# サイトの基本URL。GitHub PagesのURLを指定
