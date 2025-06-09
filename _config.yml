@@ -1,4 +1,4 @@
-title: 人工言語 Fonel(フォネル)        # サイト全体のタイトル。ブラウザのタブやSEOで使われます
+title: "人工言語 Fonel"        # サイト全体のタイトル。ブラウザのタブやSEOで使われます
 description: 人工言語 Fonel(フォネル) のサイト  # サイトの説明文。検索エンジンなどに使われます
 
 theme: just-the-docs                    # Jekyllテーマ名。ここでは「just-the-docs」を使用
