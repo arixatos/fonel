@@ -1,4 +1,5 @@
 ---
+layout: default
 title: 半母音化と表記
 nav_order: 3
 parent: 音韻と文字

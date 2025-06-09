@@ -1,4 +1,5 @@
 ---
+layout: default
 title: 音声基形の決定
 nav_order: 1
 parent: 語彙形成

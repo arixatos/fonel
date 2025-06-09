@@ -1,4 +1,5 @@
 ---
+layout: default
 title: hの扱い
 parent: 音韻と文字
 nav_order: 2

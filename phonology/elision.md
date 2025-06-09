@@ -1,4 +1,5 @@
 ---
+layout: default
 title: 音の結合現象
 nav_order: 2
 parent: 音韻と文字

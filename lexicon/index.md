@@ -1,4 +1,5 @@
 ---
+layout: default
 title: 語彙形成
 nav_order: 3
 has_children: true
