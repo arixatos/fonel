@@ -13,8 +13,6 @@ just_the_docs:
   custom_css:
     - "assets/css/custom.css"
 
-
-
 url: https://arixatos.github.io		# サイトの基本URL。GitHub PagesのURLを指定
 baseurl: /fonel						# サイトのベースパス。リポジトリ名に合わせて設定
 
