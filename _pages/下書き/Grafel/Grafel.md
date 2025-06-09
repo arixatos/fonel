@@ -55,7 +55,9 @@ Grafel でも：
 ## ■ FonelとGrafelの関係
 
 Grafel は Fonel から派生したというより、**Fonel を含む上位概念**です。  
-Fonel は「Fonel文字体系＋フランス語音韻体系」を採った一例であり、Grafel-E や Grafel-J などと並ぶ“Grafel族”の1つです。  
+Fonel は「Fonel文字体系＋フランス語音韻体系」を採った一例であり、Grafel-E や Grafel-J などと並ぶ“Grafel族”の1つで
+Grafel-Fとも呼べる言語です。
+ 
 つまり、**Fonel ⊂ Grafel** という関係です。
 
 ---
