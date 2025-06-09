@@ -3,33 +3,94 @@ title: Home
 layout: home
 ---
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+# 🌍 Fonel（人工言語）へようこそ！
 
-More specifically, the created site:
+ここは私が創作した人工言語 **Fonel** を詳細するページです。  
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
+---
 
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
+## 📚 基本情報
 
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
+- **言語名**：Fonel（フォネル）
+- **言語タイプ**：アポステリオリ型（仏語学習補助言語）
+- **特徴**：
+  - 音素ベースの綴り体系
+  - フランス語風の発音
 
-To get started with creating a site, simply:
+---
 
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
+## はじめに
 
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
+こんにちは。
 
-----
+もしあなたが「フランス語を学びたいけど、読み方も書き方も難しそう」と感じているなら、**Fonel（フォネル）** はあなたの味方です。
 
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
+フランス語の世界には、美しい響きと深い歴史が詰まっています。  
+でも、その魅力の奥にある「綴りと発音のギャップ」は、ときに私たちを遠ざけてしまいます。  
 
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
+この状況、どこか**日本語の“漢字”**に似ていませんか？
+
+> 「聞けば意味が分かる。でも書けない、読めない」  
+> そんな体験を、日本語を学ぶ外国人も、日本人の子どもも経験します。
+
+Fonel は、まさにこの **“発音と表記のギャップ”に悩む人のための橋渡し言語**。  
+「フランス語を話したい、理解したい」という気持ちを応援する、やさしい足場なのです。
+
+## Fonel ってどんな言語？
+
+**Fonel（フォネル）** は、現代フランス語の発音体系を目で見て学習しやすいように設計された人工言語です。  
+綴りを見れば正確に読めて、聞いた音をそのまま書ける。**読み書きと発音が1対1対応する**、シンプルで親しみやすい言語です。
+
+### 🌱 Fona（Fonel-B） – やさしさと規則性を大切にした基本形
+一貫性のある綴りが特徴。フランス語の発音にぴったり沿った表記で、初学者でも迷いません。
+
+### 🌿 Franel（Fonel-Fr） – フランス語により近い感覚を持つ派生形
+語感や文体をフランス語に近づけた形。フランス語の知識がある人にとっては、より自然に受け入れられるでしょう。
+
+## なぜ Fonel が生まれたの？
+
+フランス語の表記には、長い歴史や文化、そして芸術的な伝統が息づいています。  
+たとえ無音であっても残された文字たちは、**過去の記憶そのもの**です。
+
+それは尊敬に値するものであり、**私たちもその価値を大切にしたい**と考えています。
+
+でも、その“美しき複雑さ”は、初めての学習者にはあまりに高い壁です。  
+まるで、漢字の書き取りに苦しむ外国人や子どもたちのように──。
+
+**Fonel は、その壁を壊すのではなく、階段に変えたいのです。**
+
+綴りと音を一致させた Fonel を通して、**誰でもフランス語の発音体系を理解しやすくなる**。  
+その後に、フランス語本来の美しさや複雑さに、ゆっくりと近づいていける。
+
+それが私の願いです。
+
+## Fonel を学ぶとどうなるの？
+
+- 📚 **音と綴りの混乱に悩まされずに済む**
+- 🗣️ **正しく、そして自信を持って話せる**
+- 🔄 **そのままフランス語へのスムーズな移行が可能**
+- 🌍 **フランス語話者と自然な交流ができる**
+
+## おわりに
+
+Fonel は、フランス語の魅力を損なうことなく、**その入り口をもっと広く、やさしく**したいという願いから生まれました。
+
+「知らないから怖い」ではなく、「知ればもっと好きになる」。  
+Fonel を使えば、きっとそう感じてもらえるはずです。
+
+**Fonel――それは、フランス語という美しい山に登るための、はじめの小さな足場。**  
+さあ、あなたもこの道を歩き始めてみませんか？
+
+
+---
+
+## 🔗 関連リンク
+
+- [GitHub リポジトリ](https://github.com/arixatos/fonel)
+- [語彙リスト](vocab.md)
+- [文法詳細](grammar.md)
+
+---
+
+© 2025 by Fonel Project
