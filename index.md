@@ -1,6 +1,8 @@
 ---
 title: 概要
 layout: home	#ヒーローセクションつきホームページレイアウト
+nav_order: 1
+has_children: true
 ---
 
 
