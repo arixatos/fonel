@@ -6,12 +6,12 @@ theme: just-the-docs		# Jekyllテーマ名。ここでは「just-the-docs」を�
 
 
 # カスタムCSSの読み込み
-sass:
-  custom_css: assets/css/custom.scss
+######sass:
+######  custom_css: assets/css/custom.scss
 
-######just_the_docs:
-######  custom_css:
-######    - "assets/css/custom.css"
+just_the_docs:
+  custom_css:
+    - "assets/css/custom.css"
 
 url: https://arixatos.github.io		# サイトの基本URL。GitHub PagesのURLを指定
 baseurl: /fonel						# サイトのベースパス。リポジトリ名に合わせて設定
