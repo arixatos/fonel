@@ -1,13 +1,13 @@
-/* åºƒãè¡¨ç¤ºã™ã‚‹ãŸã‚ã®ã‚«ã‚¹ã‚¿ãƒã‚¤ã‚º */
-.main-content {
-  max-width: 100%;
-  width: 90%; /* ãƒšãƒ¼ã‚¸å¹…ã®90%ã‚’ä½¿ã† */
-  margin-left: auto;
-  margin-right: auto;
+/* L‚­•\¦‚·‚é‚½‚ß‚ÌƒJƒXƒ^ƒ}ƒCƒY */
+main-content {
+  max-width: 100% !important;
+  width: 90% !important; /* ƒy[ƒW•‚Ì90%‚ğg‚¤ */
+  margin-left: auto !important;
+  margin-right: auto !important;
 }
 
 @media (min-width: 1200px) {
-  .main-content {
-    width: 1000px; /* æ¥µç«¯ã«åºƒããªã‚Šã™ããªã„ã‚ˆã†åˆ¶é™ */
+  main-content {
+    width: 1000px !important; /* ‹É’[‚ÉL‚­‚È‚è‚·‚¬‚È‚¢‚æ‚¤§ŒÀ */
   }
 }
