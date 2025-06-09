@@ -1,6 +1,7 @@
 ---
 layout: default
-title: TOP
+title: トップページ
+nav_order: 1
 ---
 
 # 🌍 Fonel（人工言語）へようこそ！
