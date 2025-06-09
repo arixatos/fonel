@@ -2,6 +2,7 @@ title: 人工言語 Fonel
 theme: just-the-docs
 plugins:
   - jekyll-feed
+nav_enabled: true
 
 # GitHub PagesのURLに合わせて設定
 baseurl: "/fonel"  # ここはリポジトリ名に置き換えてください
