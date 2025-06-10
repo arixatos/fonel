@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 英語話者向け音韻割当
-parent: grafel
+parent: Grafel
 nav_order: 2
 ---
 
