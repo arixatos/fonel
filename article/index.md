@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 冠詞
-nav_order: 4
+nav_order: 40
 has_children: true
 ---
 # 冠詞 (Articl)

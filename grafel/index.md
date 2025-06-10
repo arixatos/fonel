@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Grafel
-nav_order: 7
+nav_order: 100
 has_children: true
 ---
 # Grafel（グラフェル）――Fonel文字体系を共有する人工言語群

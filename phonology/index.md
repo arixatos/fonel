@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 音韻と文字
-nav_order: 3
+nav_order: 30
 has_children: true
 ---
 # 音韻と文字

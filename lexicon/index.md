@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 語彙形成
-nav_order: 3
+nav_order: 30
 has_children: true
 ---
 # 語彙形成  
