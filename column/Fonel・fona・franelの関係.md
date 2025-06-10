@@ -1,3 +1,10 @@
+---
+layout: default
+title: Fonel・fona・franelの関係
+parent: コラム
+nav_order: 2
+---
+
 ## Fonel・fona・franelの関係
 
 Fonelは大きな言語体系の枠組みであり、そこに「fona（Fonel-B）」と「franel（Fonel-Fr）」という二つの方針が含まれます。  
