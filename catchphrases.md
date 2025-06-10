@@ -1,11 +1,10 @@
 ---
-title: 私が考えてみたキャッチコピー集
+title: キャッチコピー集
 layout: default
 nav_order: 1000
 ---
 
-私が考えてみたキャッチコピー集
-Some Catchphrases I Came Up With
+Fonelのキャッチコピー集
 
 
 ### 1. 学術的・言語学的文体
