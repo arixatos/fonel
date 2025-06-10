@@ -40,54 +40,54 @@ nav_order: 2
 
 ### 無音の h（h muet）
 
-| Fransè         | Fonel        | 発音(IPA)          | 日本語訳     |
-|----------------|--------------|--------------------|--------------|
-| homme          | om           | ɔm                 | 男           |
-| heure          | eur          | œʁ                 | 時、時間     |
-| hôtel          | òtel         | o.tɛl              | ホテル       |
-| honneur        | oner         | ɔ.nœʁ              | 名誉         |
-| histoire       | istuar       | is.twaʁ            | 物語、歴史   |
-| hiver          | ivèr         | i.vɛʁ              | 冬           |
-| hôpital        | opital       | o.pi.tal           | 病院         |
-| harmonie       | armoni       | aʁ.mɔ.ni           | 調和         |
-| habitude       | abitüd       | a.bi.tyd           | 習慣         |
-| herbe          | erb          | ɛʁb                | 草           |
-| humanité       | umanité      | y.ma.ni.te         | 人類         |
-| humour         | umur         | y.muʁ              | ユーモア     |
-| usage          | üzaj         | y.zaʒ              | 使用         |
-| hémisphère     | emisfèr      | e.mi.sfɛʁ          | 半球         |
-| hélice         | élis         | e.lis              | プロペラ     |
-| héroïsme       | éroism       | e.ʁo.ism           | 英雄性       |
-| hectare        | ektar        | ɛk.taʁ             | ヘクタール   |
-| hérésie        | erési        | e.ʁe.zi            | 異端         |
-| hôte           | òt           | ot                 | 宿主、主人   |
-| héritier       | éritié       | e.ʁi.tje           | 相続人       |
+| Fonel        | 発音(IPA)          | cf. Fransè     | 意味         |
+|--------------|--------------------|----------------|--------------|
+| òm           | ɔm                 | homme          | 男           |
+| êr           | œʁ                 | heure          | 時、時間     |
+| ótel         | o.tɛl              | hôtel          | ホテル       |
+| òner         | ɔ.nœʁ              | honneur        | 名誉         |
+| istuar       | is.twaʁ            | histoire       | 物語、歴史   |
+| ivèr         | i.vɛʁ              | hiver          | 冬           |
+| ópital       | o.pi.tal           | hôpital        | 病院         |
+| armòni       | aʁ.mɔ.ni           | harmonie       | 調和         |
+| abitüd       | a.bi.tyd           | habitude       | 習慣         |
+| èrb          | ɛʁb                | herbe          | 草           |
+| ümanité      | y.ma.ni.te         | humanité       | 人類         |
+| ümur         | y.muʁ              | humour         | ユーモア     |
+| üzaj         | y.zaʒ              | usage          | 使用         |
+| emisfèr      | e.mi.sfɛʁ          | hémisphère     | 半球         |
+| élis         | e.lis              | hélice         | プロペラ     |
+| éróism       | e.ʁo.ism           | héroïsme       | 英雄性       |
+| èktar        | ɛk.taʁ             | hectare        | ヘクタール   |
+| érisi        | e.ʁe.zi            | hérésie        | 異端         |
+| ót           | ot                 | hôte           | 宿主、主人   |
+| éritié       | e.ʁi.tje           | héritier       | 相続人       |
 
 
 ### 有音の h（h aspiré）
 
-| Fransè         | Fonel        | 発音(IPA)          | 日本語訳     |
-|----------------|--------------|--------------------|--------------|
-| héros          | héro         | he.ʁo              | 英雄         |
-| haricot        | harico       | ha.ʁi.ko           | インゲン豆   |
-| hibou          | hibu         | hi.bu              | フクロウ     |
-| hérisson       | hérison      | he.ʁi.sɔ̃          | ハリネズミ   |
-| héron          | héron        | he.ʁɔ̃             | サギ         |
-| hutte          | hüt          | hyt                | 小屋         |
-| hamster        | hamstèr      | ham.stɛʁ           | ハムスター   |
-| handicap       | handicap     | hɑ̃.di.kap         | 障害         |
-| haïr           | haïr         | ha.iʁ              | 憎む         |
-| honte          | hont         | hɔ̃t               | 恥           |
-| hasard         | hazar        | ha.zaʁ             | 偶然         |
-| hache          | hach         | haʃ                | 斧           |
-| hangar         | hangar       | hɑ̃.ɡaʁ            | 倉庫         |
-| harem          | harem        | ha.ʁɛm             | ハーレム     |
-| hâte           | hat          | hat                | 急ぎ         |
-| hausse         | hos          | hos                | 上昇         |
-| halte          | halt         | halt               | 停止         |
-| havre          | havr         | havʁ               | 港           |
-| hennir         | hènir        | hɛ.niʁ             | いななく     |
-| hautbois       | hobua        | ho.bwa             | オーボエ     |
+| Fonel        | 発音(IPA)          | cf. Fransè     | 意味         |
+|--------------|--------------------|----------------|--------------|
+| héro         | he.ʁo              | héros          | 英雄         |
+| haricó       | ha.ʁi.ko           | haricot        | インゲン豆   |
+| hibu         | hi.bu              | hibou          | フクロウ     |
+| hérisõn      | he.ʁi.sɔ̃          | hérisson       | ハリネズミ   |
+| hérõn        | he.ʁɔ̃             | héron          | サギ         |
+| hüt          | hyt                | hutte          | 小屋         |
+| hamstèr      | ham.stɛʁ           | hamster        | ハムスター   |
+| hãndicap     | hɑ̃.di.kap         | handicap       | 障害         |
+| haïr         | ha.iʁ              | haïr           | 憎む         |
+| hõnt         | hɔ̃t               | honte          | 恥           |
+| hazar        | ha.zaʁ             | hasard         | 偶然         |
+| haĉ          | haʃ                | hache          | 斧           |
+| hãngar       | hɑ̃.ɡaʁ            | hangar         | 倉庫         |
+| harem        | ha.ʁɛm             | harem          | ハーレム     |
+| hat          | hat                | hâte           | 急ぎ         |
+| hóz          | hoz                | hausse         | 上昇         |
+| halt         | halt               | halte          | 停止         |
+| havr         | havʁ               | havre          | 港           |
+| hènir        | hɛ.niʁ             | hennir         | いななく     |
+| hóbwa        | ho.bwa             | hautbois       | オーボエ     |
 
 
 
