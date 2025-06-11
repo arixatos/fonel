@@ -12,3 +12,17 @@
     width: 100% !important;
   }
 }
+
+
+
+div.bodywrapper,
+div.document,
+div.content,
+div.main-content {
+  all: unset;
+  width: 100% !important;
+  max-width: none !important;
+  margin: 0 auto !important;
+  padding: 1rem 2rem !important;
+  box-sizing: border-box !important;
+}
