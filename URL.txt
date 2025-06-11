@@ -1,0 +1,9 @@
+GitHub リポジトリのURL（クローン用）
+
+	https://github.com/arixatos/fonel.git
+
+ウェブブラウザで見る場合
+
+	https://github.com/arixatos/fonel
+
+
