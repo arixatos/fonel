@@ -1,3 +1,4 @@
+---
 layout: default  
 title: 別れの挨拶  
 parent: 挨拶  
