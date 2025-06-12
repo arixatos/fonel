@@ -89,9 +89,9 @@ Fonel語では、**すべての女性形形容詞語尾は必ずシュワー [ə
 
 | Français (masc./fém.)  | IPA (français)       | Fonel IPA            | Fonel綴字      | 備考                       |
 |------------------------|----------------------|----------------------|----------------|----------------------------|
-| petit / petite         | [pə.ti] / [pə.tit]   | [pə.ti] / [pə.ti.tə] | peti / petitë  | 女性形語尾にfémina ŝwa追加 |
-| bon / bonne            | [bɔ̃] / [bɔn]        | [bɔ̃] / [bɔnə]       | bon / bonë     | 女性形語尾にfémina ŝwa追加 |
-| nouveau / nouvelle     | [nu.vo] / [nu.vɛl]   | [nu.vo] / [nu.vɛ.lə] | novo / novelë  | 女性形語尾にfémina ŝwa追加 |
+| petit / petite         | [pə.ti] / [pə.tit]   | [pə.ti] / [pə.ti.tə] | pëti / pëtitë  | 女性形語尾にfémina ŝwa追加 |
+| bon / bonne            | [bɔ̃] / [bɔn]        | [bɔ̃] / [bɔnə]       | bõ / bònë      | 女性形語尾にfémina ŝwa追加 |
+| nouveau / nouvelle     | [nu.vo] / [nu.vɛl]   | [nu.vo] / [nu.vɛ.lə] | nuvó / nuvèlë  | 女性形語尾にfémina ŝwa追加 |
 
 ---
 
