@@ -2,7 +2,7 @@
 layout: default
 title: フランス語形容詞 petit の Fonel 表記の考察
 parent: コラム
-nav_order: 2
+nav_order: 40
 ---
 
 # フランス語形容詞 petit の Fonel 表記の考察

@@ -2,7 +2,7 @@
 layout: default
 title: Fonel語の時制設計に込めた思い — フランス語話者への架け橋として
 parent: コラム
-nav_order: 2
+nav_order: 50
 ---
 
 # Fonel語の時制設計に込めた思い — フランス語話者への架け橋として

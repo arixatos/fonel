@@ -2,7 +2,7 @@
 layout: default
 title: Fonel・fona・franelの関係
 parent: コラム
-nav_order: 2
+nav_order: 30
 ---
 
 ## Fonel・fona・franelの関係
