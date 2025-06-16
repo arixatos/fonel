@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 半母音化と表記
-nav_order: 3
+nav_order: 90
 parent: 音韻と文字
 ---
 # 半母音化の規則とその表記

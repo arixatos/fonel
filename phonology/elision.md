@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 正規形と脱落形
-nav_order: 2
+nav_order: 20
 parent: 音韻と文字
 ---
 
