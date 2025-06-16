@@ -20,16 +20,16 @@ parent: 音韻と文字
 
 ### 🪶 語源由来
 
-| Fransè    | Fonel    | 意味       |
-|-----------|----------|------------|
-| *fin*     | **fen**  | 終わり     |
-| *chute*   | **ĉüt**  | 落下、脱落 |
+| Fonel    | 意味       | Fransè    |
+|----------|------------|-----------|
+| **fen**  | 終わり     | *fin*     |
+| **ĉüt**  | 落下、脱落 | *chute*   |
 
-| Fonel                          | Fransè                         | 意味               |
-|--------------------------------|--------------------------------|--------------------|
-| **lo ĉüt dë lo sòn fen**       | la chute du son final          | 語末音の脱落       |
-| **lo ĉüt dë lo vwayèl fen**    | la chute de la voyelle finale  | 語末母音の脱落     |
-| **lo ĉüt dë lo cónsòn fen**    | la chute de la consonne finale | 語末子音の脱落     |
+| Fonel                          | 意味               | Fransè                         |
+|--------------------------------|--------------------|--------------------------------|
+| **lo ĉüt dë lo sòn fen**       | 語末音の脱落       | la chute du son final          |
+| **lo ĉüt dë lo vwayèl fen**    | 語末母音の脱落     | la chute de la voyelle finale  |
+| **lo ĉüt dë lo cónsòn fen**    | 語末子音の脱落     | la chute de la consonne finale |
 
 ### 🧠 ニュアンス
 
@@ -131,7 +131,7 @@ parent: 音韻と文字
 
 語と語が連続すると、発音のしやすさのために脱落が起こることがあります。以下のような音の並びによって、発音の自然さが左右されます：
 
-> 注：ここでいう C は「子音（consonant）」、V は「母音（vowel）」を指します。
+> 注：ここでいう C は「子音（cónsòn）」、V は「母音（vwayèl）」を指します。
 
 
 
