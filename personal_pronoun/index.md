@@ -31,19 +31,19 @@ Fonel語では、**人称代名詞において格変化は原則として不要*
 
 ---
 
-## 目的格
+## 直接目的格(対格)
 
 {% include pronouns/object.md %}
 
 ---
 
-## 間接目的格
+## 間接目的格(与格)
 
 {% include pronouns/dative.md %}
 
 ---
 
-## 所有格
+## 所有格(属格)
 
 {% include pronouns/possessive.md %}
 
