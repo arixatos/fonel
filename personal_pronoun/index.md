@@ -21,6 +21,10 @@ Fonel語では、**人称代名詞において格変化は原則として不要*
 
 ---
 
+## 汎用格（基本形）
+
+{% include pronouns/unified.md %}
+
 ## 主格
 
 {% include pronouns/subject.md %}
