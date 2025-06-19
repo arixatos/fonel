@@ -16,9 +16,7 @@ Fonelの音体系はフランス語を規範とし、
 
 ## 🔈 フランス語母音配置図（参照図）
 
-フランス語における**単母音の位置関係（舌の位置・口の開き）**を示すチャートです。Fonel語の音素との関係を理解する際の参考資料として掲載しています。
-
-![フランス語母音チャート](https://upload.wikimedia.org/wikipedia/commons/7/73/French_vowel_chart.svg)
+![フランス語母音チャート](https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/French_vowel_chart.svg/800px-French_vowel_chart.svg.png)
 
 > 出典：[Wikimedia Commons – French vowel chart](https://commons.wikimedia.org/wiki/File:French_vowel_chart.svg)  
 > 作者：User:Angr  
@@ -91,9 +89,7 @@ Fr:     Voyelles nasales
 
 ## 🔈 フランス語子音配置図（参照図）
 
-フランス語における**子音の分類と発音位置**を示すチャートです。Fonel語の子音音素理解の補助資料としてご活用ください。
-
-![フランス語子音チャート](https://upload.wikimedia.org/wikipedia/commons/0/0a/French_consonant_chart.svg)
+![フランス語子音チャート](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/French_consonant_chart.svg/800px-French_consonant_chart.svg.png)
 
 > 出典：[Wikimedia Commons – French consonant chart](https://commons.wikimedia.org/wiki/File:French_consonant_chart.svg)  
 > 作者：User:Angr  
