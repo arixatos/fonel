@@ -8,9 +8,9 @@ parent: 動詞項構造
 
 <ul>
   {% for verb in site.data.ps %}
+    {% assign verb_name = verb["動詞"] %}
     <li>
-      <a href="/動詞/{{ verb.動詞 }}.html">{{ verb.動詞 }}</a>
+      <a href="/{{ verb_name }}.html">{{ verb_name }}</a>
     </li>
   {% endfor %}
 </ul>
-
