@@ -6,4 +6,4 @@ parent: 語順と文型
 ---
 # doné
 
-{% include ps-entry.html %}
+{% include verbs-entry.html %}

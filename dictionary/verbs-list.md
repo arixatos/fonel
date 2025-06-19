@@ -27,7 +27,7 @@ parent: 語順と文型
     </tr>
   </thead>
   <tbody>
-    {% for verb in site.data.ps %}
+    {% for verb in site.data.verbs %}
     <tr>
       <td>{{ verb.verb }}</td>
       <td>{{ verb.infinitif_fr }}</td>
