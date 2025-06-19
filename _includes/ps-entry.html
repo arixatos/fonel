@@ -1,4 +1,4 @@
-{% assign this_verb = site.data.ps | where: "動詞", page.title | first %}
+{% assign this_verb = site.data.ps | where: "verb", page.title | first %}
 
 <table>
   <thead>
@@ -12,21 +12,21 @@
   <tbody>
     <tr>
       <td>x1</td>
-      <td>{{ this_verb.x1_役割 }}</td>
-      <td>{{ this_verb.x1_前置詞 }}</td>
-      <td>{{ this_verb.x1_格 }}</td>
+      <td>{{ this_verb.x1_role }}</td>
+      <td>{{ this_verb.x1_preposition }}</td>
+      <td>{{ this_verb.x1_case }}</td>
     </tr>
     <tr>
       <td>x2</td>
-      <td>{{ this_verb.x2_役割 }}</td>
-      <td>{{ this_verb.x2_前置詞 }}</td>
-      <td>{{ this_verb.x2_格 }}</td>
+      <td>{{ this_verb.x2_role }}</td>
+      <td>{{ this_verb.x2_preposition }}</td>
+      <td>{{ this_verb.x2_case }}</td>
     </tr>
     <tr>
       <td>x3</td>
-      <td>{{ this_verb.x3_役割 }}</td>
-      <td>{{ this_verb.x3_前置詞 }}</td>
-      <td>{{ this_verb.x3_格 }}</td>
+      <td>{{ this_verb.x3_role }}</td>
+      <td>{{ this_verb.x3_preposition }}</td>
+      <td>{{ this_verb.x3_case }}</td>
     </tr>
   </tbody>
 </table>

@@ -1,11 +1,11 @@
 ---
-title: 動詞項構造
+title: 語順と文型
 layout: default
 nav_order: 900
 has_children: true
 ---
 
-# Fonel語の語順と文型：項構造（Argument Structure）による説明
+# 語順と文型：項構造（Argument Structure）
 
 Fonel語では、文の構造（いわゆる「文型」）は各動詞に定義された**項構造（Argument Structure）**に従って決定されます。これにより、語順は自然で直感的なものとなり、同時にフランス語との構文的な対応関係も保たれます。
 
