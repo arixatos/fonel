@@ -16,7 +16,7 @@ Fonelの音体系はフランス語を規範とし、
 
 ## 🔈 フランス語母音配置図（参照図）
 
-![フランス語母音チャート](../assets/img/French_vowel_chart.svg)
+![フランス語母音チャート](/fonel/assets/img/French_vowel_chart.svg)
 
 > 出典：[Wikipedia – French vowel chart.svg]  
 > ライセンス：Creative Commons Attribution‑ShareAlike 4.0 International (CC BY‑SA 4.0) :contentReference[oaicite:8]{index=8}
