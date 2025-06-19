@@ -132,19 +132,22 @@ Fr:     Consonnes combinées
 
 ---
 
----
+## 🎧 フランス語母音発音リソース
 
-## 🎧 フランス語発音：音声リソース
+### 📎 IPAチャートで音を確認
 
-### 📎 クリックして聴けるIPAチャート  
-- **[Interactive IPA Chart](https://www.ipachart.com/)**：母音・子音・半母音すべての音を再生可能なIPAチャート。
+- **[Interactive IPA Chart](https://www.ipachart.com/)**  
+  クリックで各音素の発音を再生できるインタラクティブなIPAチャートです。
 
-### 🎬 発音ガイド動画（YouTube）  
-- 
-::contentReference[oaicite:6]{index=6}
+### 🎬 発音ガイド動画
 
+- **[Learn All French Sounds & Pronounce Words Perfectly with the IPA](https://www.youtube.com/watch?v=-FHXpQeFwOk)**  
+  フランス語の母音と子音の発音を、IPAを用いて初心者向けに解説した動画です。
 
-### 🎵 母音にフォーカスした無料音声資料  
-- **[French Vowel Sounds – Free Audio Lesson](https://www.frenchtoday.com/blog/french-pronunciation/vowels/)**：6母音を音声と例単語で学習。
+### 🎵 無料音声レッスン
+
+- **[French Vowel Sounds – Free Audio Lesson](https://www.frenchtoday.com/blog/french-pronunciation/vowels/)**  
+  フランス語の母音6種類を、音声と単語例を交えて学べる無料レッスンです。
+
 
 
