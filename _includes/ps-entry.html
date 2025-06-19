@@ -1,0 +1,32 @@
+{% assign this_verb = site.data.ps | where: "動詞", page.title | first %}
+
+<table>
+  <thead>
+    <tr>
+      <th>項順</th>
+      <th>意味的役割</th>
+      <th>前置詞</th>
+      <th>格分類</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>x1</td>
+      <td>{{ this_verb.x1_役割 }}</td>
+      <td>{{ this_verb.x1_前置詞 }}</td>
+      <td>{{ this_verb.x1_格 }}</td>
+    </tr>
+    <tr>
+      <td>x2</td>
+      <td>{{ this_verb.x2_役割 }}</td>
+      <td>{{ this_verb.x2_前置詞 }}</td>
+      <td>{{ this_verb.x2_格 }}</td>
+    </tr>
+    <tr>
+      <td>x3</td>
+      <td>{{ this_verb.x3_役割 }}</td>
+      <td>{{ this_verb.x3_前置詞 }}</td>
+      <td>{{ this_verb.x3_格 }}</td>
+    </tr>
+  </tbody>
+</table>
