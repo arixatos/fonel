@@ -8,6 +8,9 @@ parent: 動詞項構造
 
 <ul>
   {% for verb in site.data.ps %}
-    <li><a href="{{ verb.動詞 | prepend: '/' | append: '.html' }}">{{ verb.動詞 }}</a></li>
+    <li>
+      <a href="/動詞/{{ verb.動詞 }}.html">{{ verb.動詞 }}</a>
+    </li>
   {% endfor %}
 </ul>
+
