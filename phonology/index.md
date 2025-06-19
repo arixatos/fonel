@@ -130,3 +130,21 @@ Fr:     Consonnes combinées
 | /dʒ/   | dj     | -             | dj (稀), d + i (外来語)     |
 
 
+---
+
+---
+
+## 🎧 フランス語発音：音声リソース
+
+### 📎 クリックして聴けるIPAチャート  
+- **[Interactive IPA Chart](https://www.ipachart.com/)**：母音・子音・半母音すべての音を再生可能なIPAチャート。
+
+### 🎬 発音ガイド動画（YouTube）  
+- 
+::contentReference[oaicite:6]{index=6}
+
+
+### 🎵 母音にフォーカスした無料音声資料  
+- **[French Vowel Sounds – Free Audio Lesson](https://www.frenchtoday.com/blog/french-pronunciation/vowels/)**：6母音を音声と例単語で学習。
+
+
