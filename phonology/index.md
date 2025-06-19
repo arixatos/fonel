@@ -14,16 +14,6 @@ Fonelの音体系はフランス語を規範とし、
 文字にはラテン文字と補助記号（ダイアクリティカルマーク）を用います。
 
 
-## 🔈 フランス語母音配置図（参照図）
-
-![フランス語母音チャート](/fonel/assets/img/French_vowel_chart.svg)
-
-> 出典：[Wikipedia – French vowel chart.svg]  
-> ライセンス：Creative Commons Attribution‑ShareAlike 4.0 International (CC BY‑SA 4.0) :contentReference[oaicite:8]{index=8}
-
-
-
-
 以下に音素(fònèm)と文字(lettres)の対応を示します。  
 
 <!--
@@ -56,6 +46,29 @@ Fr:     Voyelles simples
 | /œ/   | ê     | oeu           | Ê      | eu, œu                  |
 
 
+### 鼻母音 Vwayèl nazal
+<!--
+IPA:    vwa.jɛl na.zal
+Fr:     Voyelles nasales
+-->
+
+
+| 音素  | 小文字| ASCII代替表記 | 大文字| cf. Fransè      |
+|------|-------|---------------|-------|-----------------|
+| /ɑ̃/ | ã     | an            | Ã     | an, en          |
+| /ɛ̃/ | ẽ     | en            | Ẽ     | in, ain, ein    |
+| /ɔ̃/ | õ     | on            | Õ     | on              |
+| /œ̃/ | ũ     | un            | Ũ     | un, um          |
+
+
+## 🔈 フランス語母音配置図（参照図）
+
+![フランス語母音チャート](/fonel/assets/img/French_vowel_chart.svg)
+
+> 出典：[Wikipedia – French vowel chart.svg]  
+> ライセンス：Creative Commons Attribution‑ShareAlike 4.0 International (CC BY‑SA 4.0) :contentReference[oaicite:8]{index=8}
+
+
 
 ### 二重母音・連母音 Diftõɡ é ãĉènëmã
 <!--
@@ -70,22 +83,6 @@ Fr:     diphtongues et enchaînements
 | /ɛj/  | èy    | ey            | eil                     |
 | /wa/  | wa    | -             | oi                      |
 | /wi/  | wi    | -             | oui                     |
-
-
-### 鼻母音 Vwayèl nazal
-<!--
-IPA:    vwa.jɛl na.zal
-Fr:     Voyelles nasales
--->
-
-
-
-| 音素  | 小文字| ASCII代替表記 | 大文字| cf. Fransè      |
-|------|-------|---------------|-------|-----------------|
-| /ɑ̃/ | ã     | an            | Ã     | an, en          |
-| /ɛ̃/ | ẽ     | en            | Ẽ     | in, ain, ein    |
-| /ɔ̃/ | õ     | on            | Õ     | on              |
-| /œ̃/ | ũ     | un            | Ũ     | un, um          |
 
 
 
