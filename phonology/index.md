@@ -16,11 +16,10 @@ Fonelの音体系はフランス語を規範とし、
 
 ## 🔈 フランス語母音配置図（参照図）
 
-![フランス語母音チャート](https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/French_vowel_chart.svg/800px-French_vowel_chart.svg.png)
+![フランス語母音チャート](/assets/images/French_vowel_chart.svg)
 
-> 出典：[Wikimedia Commons – French vowel chart](https://commons.wikimedia.org/wiki/File:French_vowel_chart.svg)  
-> 作者：User:Angr  
-> ライセンス：[CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)（表示—継承）
+> 出典：[Wikipedia – French phonology (vowel chart)](https://en.wikipedia.org/wiki/File:French_vowel_chart.svg)  
+> ライセンス：Public domain（著作権放棄; 英語Wikipedia によれば自由に利用可）
 
 
 以下に音素(fònèm)と文字(lettres)の対応を示します。  
@@ -87,13 +86,6 @@ Fr:     Voyelles nasales
 | /œ̃/ | ũ     | un            | Ũ     | un, um          |
 
 
-## 🔈 フランス語子音配置図（参照図）
-
-![フランス語子音チャート](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/French_consonant_chart.svg/800px-French_consonant_chart.svg.png)
-
-> 出典：[Wikimedia Commons – French consonant chart](https://commons.wikimedia.org/wiki/File:French_consonant_chart.svg)  
-> 作者：User:Angr  
-> ライセンス：[CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)（表示—継承）
 
 ### 子音 Cõsòn
 <!--
