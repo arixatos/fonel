@@ -1,19 +1,25 @@
+{% comment %}
+  このテンプレートは、現在表示中のページタイトル (page.title) に対応する
+  動詞データを site.data.verbs（CSV or YAML）から取得し、
+  その動詞の項構造（意味的役割・前置詞・格分類）を表として出力します。
+{% endcomment %}
+
 {% assign this_verb = site.data.verbs | where: "verb", page.title | first %}
 
 <table>
   <thead>
     <tr>
-      <th>項順</th>
-      <th>意味的役割</th>
-      <th>前置詞</th>
-      <th>格分類</th>
+      <th>項順</th>         <!-- x1, x2, x3などの項目番号 -->
+      <th>意味的役割</th>   <!-- その項目の意味的な役割（例：贈与者、受取人など） -->
+      <th>前置詞</th>       <!-- 該当項に導入される前置詞（例：à, surなど） -->
+      <th>格分類</th>       <!-- 目的格、間接格など（= pronoun位置判別のため） -->
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>x1</td>
       <td>{{ this_verb.x1_role }}</td>
-      <td>{{ this_verb.x1_preposition }}</td>
+      <td>―</td>  {# 主語には前置詞は不要のため固定出力 #}
       <td>{{ this_verb.x1_case }}</td>
     </tr>
     <tr>
