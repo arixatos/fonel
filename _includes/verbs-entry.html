@@ -1,12 +1,39 @@
 {% comment %}
-  ************************************************************************
-  このテンプレートは、現在表示中のページタイトル (page.title) に対応する
-  動詞データを site.data.verbs（CSV or YAML）から取得し、
-  その動詞の項構造（意味的役割・前置詞・格分類）を表として出力します。
-  ************************************************************************
+************************************************************************
+/fonel/_includes/verbs-entry.html
+************************************************************************
+このテンプレートは、現在表示中のページタイトル (page.title) に対応する
+動詞データを site.data.verbs（CSV or YAML）から取得し、
+その動詞の項構造（意味的役割・前置詞・格分類）を表として出力します。
+************************************************************************
 {% endcomment %}
 
 {% assign this_verb = site.data.verbs | where: "verb", page.title | first %}
+
+{% comment %}
+************************************************************************
+SYNOPSIS 表示ブロック（x1〜x5対応版）
+- page.title: 動詞
+- 各項が存在するかで条件分岐し、SYNOPSISとして簡略構文を表示
+- x1 は常に表示、x2〜x5 は定義があれば表示
+************************************************************************
+{% endcomment %}
+
+<p><strong>SYNOPSIS:</strong>
+  x1 {{ page.title }}
+  {% if this_verb.x2_role %}
+    x2
+  {% endif %}
+  {% if this_verb.x3_role %}
+    [{% if this_verb.x3_preposition %}{{ this_verb.x3_preposition }} {% endif %}x3]
+  {% endif %}
+  {% if this_verb.x4_role %}
+    [{% if this_verb.x4_preposition %}{{ this_verb.x4_preposition }} {% endif %}x4]
+  {% endif %}
+  {% if this_verb.x5_role %}
+    [{% if this_verb.x5_preposition %}{{ this_verb.x5_preposition }} {% endif %}x5]
+  {% endif %}
+</p>
 
 <table>
   <thead>
@@ -35,6 +62,18 @@
       <td>{{ this_verb.x3_role }}</td>
       <td>{{ this_verb.x3_preposition }}</td>
       <td>{{ this_verb.x3_case }}</td>
+    </tr>
+    <tr>
+      <td>x4</td>
+      <td>{{ this_verb.x4_role }}</td>
+      <td>{{ this_verb.x4_preposition }}</td>
+      <td>{{ this_verb.x4_case }}</td>
+    </tr>
+    <tr>
+      <td>x5</td>
+      <td>{{ this_verb.x5_role }}</td>
+      <td>{{ this_verb.x5_preposition }}</td>
+      <td>{{ this_verb.x5_case }}</td>
     </tr>
   </tbody>
 </table>
