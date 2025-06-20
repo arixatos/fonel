@@ -41,6 +41,13 @@
 - [Fonel音韻対応表](https://arixatos.github.io/fonel/phonology/)  
 - [Fonel語辞書形ルール](https://arixatos.github.io/fonel/lexicon/)
 
+## 🔧 作業支援資料
+
+- [翻字チェックリスト](./phonology_checklist.md)
+- [よくある誤りガイド](./common_mistakes.md)
+
+
+
 ---
 
 👉 CSV登録作業については、[こちらの指示書](lexicon_csv_entry.md)を参照してください。
