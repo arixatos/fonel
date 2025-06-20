@@ -1,39 +1,54 @@
-【依頼タイトル】  
-フランス語単語のFonel語語彙生成依頼
+# フランス語単語のFonel語語彙生成依頼
 
-【背景・目的】  
+## 📘 背景・目的
+
 この依頼は、あらかじめ共有している以下の指示書に従い、  
-正確かつ一貫したFonel語の語彙形を作成することを目的としています。
+**正確かつ一貫したFonel語の語彙形（辞書形）を生成**することを目的としています。
 
-指示書URL：  
-- 語彙生成指示書（phonology対応）  
-  https://github.com/arixatos/fonel/blob/main/_includes/lexicon_generation.md  
-- CSV登録指示書（データ管理ルール）  
-  https://github.com/arixatos/fonel/blob/main/_includes/lexicon_csv_entry.md  
+### 🔗 参照指示書：
 
-【依頼内容】  
-1. 指示書の「最長形IPA」を元にFonel音韻対応表で正しく変換してください。  
-2. 文法的な性別変化（fémina ŝwa等）も適用してください。  
-3. 辞書形としてFonel綴字形も併せて示してください。  
-4. IPA表記とFonel表記の対応がわかるように明示してください。
+- **語彙生成指示書（phonology対応）**  
+  https://github.com/arixatos/fonel/blob/main/_includes/lexicon_generation.md
 
-「phonology_checklist.mdに準拠して変換してください」
+- **CSV登録指示書（データ管理ルール）**  
+  https://github.com/arixatos/fonel/blob/main/_includes/lexicon_csv_entry.md
 
-【依頼単語】  
-（例）  
+- **翻字チェックリスト**  
+  https://github.com/arixatos/fonel/blob/main/_includes/phonology_checklist.md  
+  → 必ずこのチェックリストに準拠して作業を行ってください。
+
+---
+
+## 📋 依頼内容
+
+1. 指示書に基づき、**最長形IPA（潜在子音・e muet含む）**を起点としたFonel語変換を行ってください。
+2. **文法的性別変化（fémina ŝwa）**などの規則も忠実に反映してください。
+3. 最終出力には、**IPA表記と対応するFonel綴字**を明記してください。
+4. 辞書形（Fonel語彙形）は、**標準の音声基形を正しく綴字化した形**で定義してください。
+
+---
+
+## 🧾 依頼単語（例）
+
 - forme  
 - complète  
-- autre単語...
+- その他、一般的な形容詞や名詞など適宜追加  
 
-【備考】  
-・Fonel語では/k/音は常に「c」で表記します。  
-・鼻母音やアクセントの向きも指示書通りに処理してください。  
+---
 
-## 🔲 出力前セルフチェック項目（出力者用）
+## 📌 備考
 
-- [ ] IPAは最長形か？（e muet・潜在子音含む）
-- [ ] Fonel音韻対応表に完全準拠しているか？
-- [ ] k, x, ž など使用禁止文字が混入していないか？
-- [ ] フォルマット（IPA / Fonel綴字）が明示されているか？
+- Fonel語では **/k/** 音は常に「**c**」で表記します（**kは使用不可**）。
+- 鼻母音やアクセントの向き、シュワー（ë）などは**常に音韻対応表に従ってください**。
+- 出力前に以下のチェックリストを**必ず確認**してください。
 
+---
 
+## ✅ 出力前セルフチェック項目（出力者用）
+
+- [ ] IPAは最長形か？（語尾シュワー、潜在子音含む）  
+- [ ] Fonel音韻対応表に完全に準拠しているか？  
+- [ ] 禁止文字（k, x, žなど）が混入していないか？  
+- [ ] IPA表記とFonel綴字が明示されているか？  
+
+---
