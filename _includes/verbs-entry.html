@@ -12,26 +12,40 @@
 
 {% comment %}
 ************************************************************************
-SYNOPSIS 表示ブロック（x1〜x5対応版）
-- page.title: 動詞
-- 各項が存在するかで条件分岐し、SYNOPSISとして簡略構文を表示
-- x1 は常に表示、x2〜x5 は定義があれば表示
+SYNOPSIS 表示ブロック（x1〜x5対応版、optional対応）
+- 各項の optional フィールド（例: x3_optional）に応じてブラケット表示を制御
 ************************************************************************
 {% endcomment %}
 
 <p><strong>SYNOPSIS:</strong>
   x1 {{ page.title }}
   {% if this_verb.x2_role %}
-    x2
+    {% if this_verb.x2_optional %}
+      [{{ this_verb.x2_preposition }} x2]
+    {% else %}
+      {{ this_verb.x2_preposition }} x2
+    {% endif %}
   {% endif %}
   {% if this_verb.x3_role %}
-    [{% if this_verb.x3_preposition %}{{ this_verb.x3_preposition }} {% endif %}x3]
+    {% if this_verb.x3_optional %}
+      [{{ this_verb.x3_preposition }} x3]
+    {% else %}
+      {{ this_verb.x3_preposition }} x3
+    {% endif %}
   {% endif %}
   {% if this_verb.x4_role %}
-    [{% if this_verb.x4_preposition %}{{ this_verb.x4_preposition }} {% endif %}x4]
+    {% if this_verb.x4_optional %}
+      [{{ this_verb.x4_preposition }} x4]
+    {% else %}
+      {{ this_verb.x4_preposition }} x4
+    {% endif %}
   {% endif %}
   {% if this_verb.x5_role %}
-    [{% if this_verb.x5_preposition %}{{ this_verb.x5_preposition }} {% endif %}x5]
+    {% if this_verb.x5_optional %}
+      [{{ this_verb.x5_preposition }} x5]
+    {% else %}
+      {{ this_verb.x5_preposition }} x5
+    {% endif %}
   {% endif %}
 </p>
 

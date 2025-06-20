@@ -17,12 +17,16 @@ parent: 語順と文型
       <th>x1_役割</th>
       <th>x2_前置詞</th>
       <th>x2_役割</th>
+      <th>x2_省略可</th>
       <th>x3_前置詞</th>
       <th>x3_役割</th>
+      <th>x3_省略可</th>
       <th>x4_前置詞</th>
       <th>x4_役割</th>
+      <th>x4_省略可</th>
       <th>x5_前置詞</th>
       <th>x5_役割</th>
+      <th>x5_省略可</th>
     </tr>
   </thead>
   <tbody>
@@ -35,12 +39,16 @@ parent: 語順と文型
       <td>{{ verb.x1_role }}</td>
       <td>{{ verb.x2_preposition }}</td>
       <td>{{ verb.x2_role }}</td>
+      <td>{% if verb.x2_optional == "true" %}◯{% else %}―{% endif %}</td>
       <td>{{ verb.x3_preposition }}</td>
       <td>{{ verb.x3_role }}</td>
+      <td>{% if verb.x3_optional == "true" %}◯{% else %}―{% endif %}</td>
       <td>{{ verb.x4_preposition }}</td>
       <td>{{ verb.x4_role }}</td>
+      <td>{% if verb.x4_optional == "true" %}◯{% else %}―{% endif %}</td>
       <td>{{ verb.x5_preposition }}</td>
       <td>{{ verb.x5_role }}</td>
+      <td>{% if verb.x5_optional == "true" %}◯{% else %}―{% endif %}</td>
     </tr>
     {% endfor %}
   </tbody>
