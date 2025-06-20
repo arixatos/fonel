@@ -10,6 +10,14 @@
 
 {% assign this_verb = site.data.verbs | where: "verb", page.title | first %}
 
+<h2>{{ page.title }}</h2>
+
+<ul>
+  <li><strong>発音：</strong> {{ this_verb.pronunciation }}</li>
+  <li><strong>意味：</strong> {{ this_verb.japanese }}</li>
+  <li><strong>語源（仏）：</strong> {{ this_verb.infinitif_fr }}</li>
+</ul>
+
 {% comment %}
 ************************************************************************
 SYNOPSIS 表示ブロック（x1〜x5対応版、optional対応）
