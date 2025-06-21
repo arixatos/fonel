@@ -1,0 +1,52 @@
+{% assign adj = site.data.adjectives | where: "adjective_fr", page.title | first %}
+
+<h2>{{ adj.adjective_fr }}（{{ adj.japanese }}）</h2>
+
+<p><strong>発音（IPA）:</strong> {{ adj.pronunciation }}</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>性・数</th>
+      <th>Fonel表記</th>
+      <th>IPA</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>共通・単数</td>
+      <td>{{ adj.common_sg }}</td>
+      <td><!-- IPAがあれば入れる --> </td>
+    </tr>
+    <tr>
+      <td>共通・複数</td>
+      <td>{{ adj.common_pl }}</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>男性・単数</td>
+      <td>{{ adj.masc_sg }}</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>男性・複数</td>
+      <td>{{ adj.masc_pl }}</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>女性・単数</td>
+      <td>{{ adj.fem_sg }}</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>女性・複数</td>
+      <td>{{ adj.fem_pl }}</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+{% if adj.fem_root_change != "なし" and adj.fem_root_change %}
+<p><strong>語根変化:</strong> {{ adj.fem_root_change }}  
+（Fonel語ではこのような軟音化を実際の発音に基づいて綴字に反映します）</p>
+{% endif %}
