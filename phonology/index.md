@@ -31,13 +31,13 @@ Fr:     Voyelles simples
 
 | 音素  | 文字  | ASCII代替表記 | 大文字 | cf. Fransè              |
 |-------|-------|---------------|--------|-------------------------|
-| /a/   | a     | -             |        | a, à, â                 |
+| /a/   | a     | -             | A      | a, à, â                 |
 | /e/   | é     | e             | É      | é                       |
 | /ɛ/   | è     | eh            | È      | è, ê, ë, ai             |
-| /i/   | i     | -             |        | i, î                    |
+| /i/   | i     | -             | I      | i, î                    |
 | /o/   | ó     | o             | Ó      | o, au, eau, eaux, ô     |
 | /ɔ/   | ò     | oh            | Ò      | o (bonne, porteなど), ô |
-| /u/   | u     | -             |        | ou                      |
+| /u/   | u     | -             | U      | ou                      |
 | /y/   | ü     | yu            | Ü      | u, û, ù                 |
 | /ə/   | ë     | uh            | Ë      | e (muet), ë             |
 | /ɥ/   | ŷ     | yw            | Ŷ      | u+i                     |
@@ -51,8 +51,7 @@ IPA:    vwa.jɛl na.zal
 Fr:     Voyelles nasales
 -->
 
-
-| 音素  | 小文字| ASCII代替表記 | 大文字| cf. Fransè      |
+| 音素 | 小文字| ASCII代替表記 | 大文字| cf. Fransè      |
 |------|-------|---------------|-------|-----------------|
 | /ɑ̃/ | ã     | an            | Ã     | an, en          |
 | /ɛ̃/ | ẽ     | en            | Ẽ     | in, ain, ein    |
@@ -65,7 +64,7 @@ Fr:     Voyelles nasales
 ![フランス語母音チャート](/fonel/assets/img/French_vowel_chart.svg)
 
 > 出典：[Wikipedia – French vowel chart.svg]  
-> ライセンス：Creative Commons Attribution‑ShareAlike 4.0 International (CC BY‑SA 4.0) :contentReference[oaicite:8]{index=8}
+> ライセンス：Creative Commons Attribution‑ShareAlike 4.0 International (CC BY‑SA 4.0)
 
 
 
@@ -74,7 +73,6 @@ Fr:     Voyelles nasales
 IPA:    diftɔ̃ɡ‿e‿ɑ̃ʃɛnəmɑ̃
 Fr:     diphtongues et enchaînements
 -->
-
 
 | 音素  | 文字  | ASCII代替表記 | cf. Fransè              |
 |-------|-------|---------------|-------------------------|
@@ -91,29 +89,28 @@ IPA:    kɔ̃sɔn
 Fr:     Consonnes
 -->
 
-
 | 音素  |小文字 | ASCII代替表記 | 大文字| cf. Fransè  |
 |-------|-------|---------------|-------|-------------|
-| /p/   | p     | -             |       | p           |
-| /b/   | b     | -             |       | b           |
-| /t/   | t     | -             |       | t,d         |
-| /d/   | d     | -             |       | d           |
-| /k/   | c     | -             |       | c, qu       |
-| /g/   | g     | -             |       | g, gu       |
-| /m/   | m     | -             |       | m           |
-| /n/   | n     | -             |       | n           |
+| /p/   | p     | -             | P     | p           |
+| /b/   | b     | -             | B     | b           |
+| /t/   | t     | -             | T     | t,d         |
+| /d/   | d     | -             | D     | d           |
+| /k/   | c     | -             | C     | c, qu       |
+| /g/   | g     | -             | G     | g, gu       |
+| /m/   | m     | -             | M     | m           |
+| /n/   | n     | -             | N     | n           |
 | /ɲ/   | ñ     | gn            | Ñ     | gn          |
-| /ŋ/   | ng    | -             |       | ng (稀)     |
-| /f/   | f     | -             |       | f           |
-| /v/   | v     | -             |       | v           |
-| /s/   | s     | -             |       | s, c, ç     |
-| /z/   | z     | -             |       | z, s        |
+| /ŋ/   | ng    | -             | NG    | ng (稀)     |
+| /f/   | f     | -             | F     | f           |
+| /v/   | v     | -             | V     | v           |
+| /s/   | s     | -             | S     | s, c, ç     |
+| /z/   | z     | -             | Z     | z, s        |
 | /ʃ/   | ĉ     | ch            | Ĉ     | ch          |
-| /ʒ/   | j     | -             |       | j, g        |
-| /j/   | y     | -             |       | y, ill      |
-| /l/   | l     | -             |       | l           |
-| /ʁ/   | r     | -             |       | r           |
-| /h/   | h     | -             |       | h (無音)    |
+| /ʒ/   | j     | -             | J     | j, g        |
+| /j/   | y     | -             | Y     | y, ill      |
+| /l/   | l     | -             | L     | l           |
+| /ʁ/   | r     | -             | R     | r           |
+| /h/   | h     | -             | H     | h (無音)    |
 
 
 ### 複合子音 Cõsòn cõbiné
@@ -122,12 +119,10 @@ IPA:    kɔ̃sɔn kɔ̃bine
 Fr:     Consonnes combinées
 -->
 
-
 | 音素   | 文字   | ASCII代替表記 | cf. Fransè                  |
 |--------|--------|---------------|-----------------------------|
 | /tʃ/   | tĉ     | tch           | tch                         |
 | /dʒ/   | dj     | -             | dj (稀), d + i (外来語)     |
-
 
 ---
 
@@ -147,6 +142,3 @@ Fr:     Consonnes combinées
 
 - **[French Vowel Sounds – Free Audio Lesson](https://www.frenchtoday.com/blog/french-pronunciation/vowels/)**  
   フランス語の母音6種類を、音声と単語例を交えて学べる無料レッスンです。
-
-
-
