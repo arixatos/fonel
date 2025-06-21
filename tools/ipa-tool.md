@@ -46,3 +46,4 @@ IPA記号を入力すると、対応するフォネル表記に自動で翻字�
     document.getElementById('output').innerText = `フォネル表記：\n${ipa}`;
   }
 </script>
+
