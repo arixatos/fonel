@@ -1,7 +1,7 @@
 ---
 layout: default  
 title: 別れの挨拶  
-parent: 挨拶  
+parent: 挨拶文  
 nav_order: 30  
 ---
 

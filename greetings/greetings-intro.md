@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 初対面・問いかけ
-parent: 挨拶
+parent: 挨拶文
 nav_order: 40
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: カジュアルな挨拶
-parent: 挨拶
+parent: 挨拶文
 nav_order: 20
 ---
 
