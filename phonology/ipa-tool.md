@@ -2,6 +2,7 @@
 layout: default
 title: IPA → フォネル翻字ツール
 nav_order: 90
+parent: 音韻と文字
 ---
 
 # IPA → フォネル翻字ツール
