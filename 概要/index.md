@@ -82,14 +82,3 @@ Fonel を使えば、きっとそう感じてもらえるはずです。
 さあ、あなたもこの道を歩き始めてみませんか？
 
 
----
-
-## 🔗 関連リンク
-
-- [GitHub リポジトリ](https://github.com/arixatos/fonel)
-- [語彙リスト](vocab.md)
-- [文法詳細](grammar.md)
-
----
-
-© 2025 by Fonel Project
