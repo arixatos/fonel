@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 音韻と文字
-nav_order: 30
+nav_order: 50
 has_children: true
 ---
 # 音韻と文字 Prònõsyasyõ é lètr
