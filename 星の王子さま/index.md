@@ -1,6 +1,7 @@
 layout: default
 title: Fonel語で読む『星の王子さま』
 nav_order: 20
+has_children: true
 ---
 
 ## ✨ Fonel語で読む『星の王子さま』冒頭
