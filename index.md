@@ -1,5 +1,5 @@
 ---
-title: Fonel
+title: Top
 layout: home	#ヒーローセクションつきホームページレイアウト
 nav_order: 1
 has_children: true
@@ -25,9 +25,10 @@ has_children: true
 
 ## 🔗 関連リンク
 
-- [GitHub リポジトリ](https://github.com/arixatos/fonel)
-- [語彙リスト](vocab.md)
+- [語彙一覧](./語順と文型/動詞項構造一覧.md)
+- [語彙（索引）](./語順と文型/動詞項構造（索引）.md)
 - [文法詳細](grammar.md)
+- [GitHub リポジトリ](https://github.com/arixatos/fonel)
 
 ---
 
