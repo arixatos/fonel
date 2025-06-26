@@ -5,6 +5,10 @@ description: 人工言語 Fonel(フォネル) のサイト  # サイトの説明
 ########theme: just-the-docs		# Jekyllテーマ名。ここでは「just-the-docs」を使用
 remote_theme: just-the-docs/just-the-docs
 
+
+color_scheme: wider
+
+
 # カスタムCSSの読み込み
 ######sass:
 ######  custom_css: assets/css/custom.scss
