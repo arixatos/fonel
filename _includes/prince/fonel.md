@@ -33,7 +33,7 @@ Lo désẽ a mwa nüméró 2 ètr còm sëla :
 <!--
 ![中が見える透視図]({{ site.baseurl }}/assets/images/boa_inside.png)
 -->
-<img src="{{ site.baseúrl }}/assets/images/boa_inside.png" alt="中が見える透視図" width="300">
+<img src="{{ site.baseurl }}/assets/images/boa_inside.png" alt="中が見える透視図" width="300">
 
 Léz grãdz pèrsòn cõsèyé antã a mwa lèsé dë cóté léz désẽ dë sèrpãz bwas úvèrz oú fèrméz, et seẽtèrésé plütò a lo jéògrafi, a lo istwar, aú calcül et a lo gramèr.  
 Sè è ẽsi cë mwa abãdòné antã a lo aj dë siz an ën caryèr mañific dë pẽtr.  
