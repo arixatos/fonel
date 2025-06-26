@@ -320,13 +320,13 @@
 
 → 「大人はいつも説明されなきゃわからない」という嘆き。
 
-### 26. Lo désẽ a mwa nüméró deux ètr còm sëla :  
+### 26. Lo désẽ a mwa nüméró dö ètr còm sëla :  
 **語義分解：** 私の絵・番号2番・〜のようだった  
 **和訳：** これが、ぼくの絵2号。
 
 **解説：**  
 - `Lo désẽ a mwa`：私の絵  
-- `nüméró deux`：2番（仏語 *numéro deux*）  
+- `nüméró dö`：2番（仏語 *numéro deux*）  
 - `ètr còm sëla`：このようだった（*était comme cela*）  
 
 → 実際の「絵2号」（ボアの断面図）の紹介。
