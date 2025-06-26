@@ -42,14 +42,14 @@
 
 ---
 
-## 4. et ci avwar pur nõ « Istwarz vécü »  
+## 4. et ci avwar púr nõ « Istwarz vécü »  
 **語義分解**：そして・それ・持つ・名前として・「実話」  
 **和訳**：そしてそれは「本当にあった話」っていう名前
 
 **解説**：
 - **et**：そして  
 - **ci**：前文の「本」を指す  
-- **avwar pur nõ**：名前として持っている（仏語 *avoir pour nom*）  
+- **avwar púr nõ**：名前として持っている（仏語 *avoir pour nom*）  
 - **« Istwarz vécü »**：「実話」（仏語 *Histoire vécue*）
 
 ---
@@ -99,7 +99,7 @@
 → このあとに引用される説明に導く文。
 
 ---
-### 9. « Léz sèrpãz bwas avalé lêr prwa tout ãtyèr sãz maĉé  
+### 9. « Léz sèrpãz bwas avalé lêr prwa toút ãtyèr sãz maĉé  
 **語義分解：** ボアたちは・獲物を・完全に・噛まずに・飲み込む  
 **和訳：** ボアは、獲物をかまずにまるごと呑みこみます。
 
@@ -107,20 +107,20 @@
 - `Léz sèrpãz bwas`：複数形「ボアのヘビたち」（仏語 *les serpents boas*）  
 - `avalé`：動詞「飲み込む」  
 - `lêr prwa`：彼らの獲物（仏語 *leur proie*）  
-- `tout ãtyèr`：まるごと完全に（仏語 *tout entière*）  
+- `toút ãtyèr`：まるごと完全に（仏語 *tout entière*）  
 - `sãz maĉé`：噛まずに（仏語 *sans mâcher*）  
 
 → フランス語の直訳に極めて忠実。
 
-### 10. Ãsŷit, ilz (në) puvwar plüz bujé  
+### 10. Ãsŷit, ilz (në) púvwar plüz bújé  
 **語義分解：** そのあと・彼らは・もう・動けない  
 **和訳：** そのあと、もう動けなくなる。
 
 **解説：**  
 - `Ãsŷit`：その後（仏語 *ensuite*）  
 - `ilz`：彼らは  
-- `(në) puvwar plüz`：もう〜できない（仏語 *ne peuvent plus*）  
-- `bujé`：動く（仏語 *bouger*）  
+- `(në) púvwar plüz`：もう〜できない（仏語 *ne peuvent plus*）  
+- `bújé`：動く（仏語 *bouger*）  
 
 → Fonel語では否定構造がフランス語に倣って `(në) ... plüz` のように表現されている。
 
@@ -137,13 +137,13 @@
 
 ---
 
-### 12. Mwa réfléĉir bócu sür léz avãtür dë lo jũgl  
+### 12. Mwa réfléĉir bócú sür léz avãtür dë lo jũgl  
 **語義分解：** 私・たくさん考える・冒険について・ジャングルの  
 **和訳：** ぼくは、ジャングルの冒険をいろいろ想像する
 
 **解説：**  
 - `réfléĉir`：考える（仏語 *réfléchir*）  
-- `bócu`：たくさん（仏語 *beaucoup*）  
+- `bócú`：たくさん（仏語 *beaucoup*）  
 - `sür léz avãtür`：冒険について（仏語 *sur les aventures*）  
 - `dë lo jũgl`：ジャングルの（仏語 *de la jungle*）  
 
@@ -151,25 +151,25 @@
 
 ---
 
-### 13. Et, a ën tur a mwa, mwa réüsir antã ...  
+### 13. Et, a ën túr a mwa, mwa réüsir antã ...  
 **語義分解：** そして・一度・私の番で・私・成功した・昔  
 **和訳：** こんどは自分で、
 
 **解説：**  
 - `Et`：そして  
-- `a ën tur a mwa`：「私の番で」＝仏語 *à mon tour*  
+- `a ën túr a mwa`：「私の番で」＝仏語 *à mon tour*  
 - `mwa réüsir antã`：私は成功した（過去形）  
 
 → 「空想していたぼくが、自分でも絵を描いてみた」という展開の導入部分。
 
 ---
 
-### 14. avèc ën crèyõ dë culêr trasé ën prëmyé désẽ a Mwa  
+### 14. avèc ën crèyõ dë cúlêr trasé ën prëmyé désẽ a Mwa  
 **語義分解：** 〜で・色鉛筆・描く・最初の・絵・私の  
 **和訳：** 色えんぴつで初めての絵を描いてみた。
 
 **解説：**  
-- `avèc ën crèyõ dë culêr`：色鉛筆で（仏語 *avec un crayon de couleur*）  
+- `avèc ën crèyõ dë cúlêr`：色鉛筆で（仏語 *avec un crayon de couleur*）  
 - `trasé`：描く（仏語 *tracer*）  
 - `ën prëmyé désẽ a Mwa`：私の最初の絵  
 
@@ -225,7 +225,7 @@
 - `si` = 〜かどうか  
 - `fèr pêr` = 怖がらせる（仏語 *faire peur*）  
 
-→ フォネル語では *faire peur à* の構文も再現されている。
+→ フォネル語では *faire peúr à* の構文も再現されている。
 
 ---
 
@@ -242,12 +242,12 @@
 
 ---
 
-### 20. « Purcwa ën ĉapó fèr pêr ? »  
+### 20. « Púrcwa ën ĉapó fèr pêr ? »  
 **語義分解：** なぜ・帽子が・怖い？  
 **和訳：** 「帽子のどこがこわいの？」って
 
 **解説：**  
-- `Purcwa`：なぜ（仏語 *Pourquoi*）  
+- `Púrcwa`：なぜ（仏語 *Pourquoi*）  
 - `ën ĉapó`：1つの帽子（仏語 *un chapeau*）  
 - `fèr pêr`：怖がらせる（前と同様）  
 
@@ -294,27 +294,27 @@
 
 ---
 
-### 24. afin cë léz grãdz personnes puvwar cõprãdr  
+### 24. afin cë léz grãdz personnes púvwar cõprãdr  
 **語義分解：** 〜のために・大人たちが・理解できるように  
 **和訳：** 大人にもわかるように、
 
 **解説：**  
 - `afin cë ...`：〜のために（*afin que*）  
 - `léz grãdz personnes`：大人たち（*les grandes personnes*）  
-- `puvwar cõprãdr`：理解できるように（*pouvoir comprendre*）  
+- `púvwar cõprãdr`：理解できるように（*pouvoir comprendre*）  
 
 → 大人向けに絵をわかりやすく描き直す行動。
 
 ---
 
-### 25. Öz avwar tujur bëzwẽ dë ècsplicasyõ  
+### 25. Öz avwar tújúr bëzwẽ dë ècsplicasyõ  
 **語義分解：** 彼らは・持つ・いつも・必要・説明の  
 **和訳：** 大人って、いっつも説明が必要
 
 **解説：**  
 - `Öz`：彼ら（＝大人たち）  
 - `avwar`：持つ（*avoir*）  
-- `tujur`：いつも（*toujours*）  
+- `tújúr`：いつも（*toujours*）  
 - `bëzwẽ`：必要（*besoin*）  
 - `dë ècsplicasyõ`：説明の（*d’explication*）  
 
@@ -346,7 +346,7 @@
 
 ---
 
-### 28. lèsé dë cóté léz désẽ dë sèrpãz bwas uvèrz ou fèrméz  
+### 28. lèsé dë cóté léz désẽ dë sèrpãz bwas úvèrz oú fèrméz  
 **語義分解：** やめなさい・脇に置く・ボアの絵・開いたり・閉じたりする  
 **和訳：** 口を開けたり閉じたボアの絵なんて描くのはやめなさい
 
@@ -354,7 +354,7 @@
 - `lèsé dë cóté`：やめなさい（*laisser de côté* = 脇に置く、捨てる）  
 - `léz désẽ`：その絵たち（複数）  
 - `dë sèrpãz bwas`：ボアたちの絵  
-- `uvèrz ou fèrméz`：開いたり閉じたり（*ouverts ou fermés*）  
+- `úvèrz oú fèrméz`：開いたり閉じたり（*ouverts ou fermés*）  
 
 → 「そんなくだらない絵やめなさい」的な価値観を表す象徴的セリフ。
 
@@ -397,12 +397,12 @@
 
 ---
 
-### 32. Mwa ètr décurayé antã par lo éĉèc dë lo désẽ ...  
+### 32. Mwa ètr décúrayé antã par lo éĉèc dë lo désẽ ...  
 **語義分解：** 私は・〜である・落胆した・昔・失敗によって・その絵の  
 **和訳：** 絵の失敗に落胆した
 
 **解説：**  
-- `Mwa ètr décurayé`：私は落胆した（*j’étais découragé*）  
+- `Mwa ètr décúrayé`：私は落胆した（*j’étais découragé*）  
 - `antã`：過去  
 - `par lo éĉèc dë lo désẽ`：その絵の失敗によって（*par l’échec du dessin*）  
 
@@ -431,29 +431,29 @@
 - `Léz grãdz personnes`：大人たち（*les grandes personnes*）  
 - `(në) ... jamèz ryẽ`：決して何も〜ない（*ne ... jamais rien*）  
 - `cõprãdr`：理解する（*comprendre*）  
-- `toutes sêlz`：一人では（*toutes seules*）  
+- `toútes sêlz`：一人では（*toutes seules*）  
 
 → 大人は一人で理解できず、説明が必須である批判。
 
 ---
 
-### 35. et sè è fatigãn pur léz ãfã dë tujur lêr ...  
+### 35. et sè è fatigãn púr léz ãfã dë tújúr lêr ...  
 **語義分解：** そして・それは・疲れる・子どもにとって・いつも・彼らの（ために）…  
 **和訳：** それって子どもにとって疲れちゃう。
 
 **解説：**  
 - `et sè è fatigãn`：そしてそれは疲れる（*et c’est fatigant*）  
-- `pur léz ãfã`：子どもにとって（*pour les enfants*）  
-- `dë tujur lêr ...`：いつも彼ら（大人）のために…  
+- `púr léz ãfã`：子どもにとって（*pour les enfants*）  
+- `dë tújúr lêr ...`：いつも彼ら（大人）のために…  
 
 → 子どもが説明し続ける苦労を示唆。文章は「...」で終わり余韻あり。
 
-### 36. Mwa ètr décurayé antã par lo éĉèc dë lo désẽ ...  
+### 36. Mwa ètr décúrayé antã par lo éĉèc dë lo désẽ ...  
 **語義分解：** 私は・落胆した・昔・その絵の失敗によって  
 **和訳：** 絵の失敗に落胆した
 
 **解説：**  
-- `Mwa ètr décurayé`：私は落胆した（*j’étais découragé*）  
+- `Mwa ètr décúrayé`：私は落胆した（*j’étais découragé*）  
 - `antã`：過去  
 - `par lo éĉèc dë lo désẽ`：その絵の失敗によって（*par l’échec du dessin*）
 
@@ -470,7 +470,7 @@
 
 ---
 
-### 38. Léz grãdz personnes (në) cõprãdr jamèz ryẽ toutes sêlz  
+### 38. Léz grãdz personnes (në) cõprãdr jamèz ryẽ toútes sêlz  
 **語義分解：** 大人たちは・理解しない・決して・何も・一人では  
 **和訳：** 大人たちは決してひとりで何も理解しない。
 
@@ -478,18 +478,18 @@
 - `Léz grãdz personnes`：大人たち（*les grandes personnes*）  
 - `(në) ... jamèz ryẽ`：決して何も～ない（*ne ... jamais rien*）  
 - `cõprãdr`：理解する（*comprendre*）  
-- `toutes sêlz`：ひとりで（*toutes seules*）
+- `toútes sêlz`：ひとりで（*toutes seules*）
 
 ---
 
-### 39. et sè è fatigãn pur léz ãfã dë tujur lêr ...  
+### 39. et sè è fatigãn púr léz ãfã dë tújúr lêr ...  
 **語義分解：** そして・それは・疲れる・子どもにとって・いつも・彼らのために...  
 **和訳：** それは子どもたちにとって疲れることだ。
 
 **解説：**  
 - `et sè è fatigãn`：そしてそれは疲れる（*et c’est fatigant*）  
-- `pur léz ãfã`：子どもにとって（*pour les enfants*）  
-- `dë tujur lêr ...`：いつも彼らのために（*de toujours leur...*）  
+- `púr léz ãfã`：子どもにとって（*pour les enfants*）  
+- `dë tújúr lêr ...`：いつも彼らのために（*de toujours leur...*）  
 
 → 文章が「...」で終わっているため、説明を続ける必要があるニュアンス。
 

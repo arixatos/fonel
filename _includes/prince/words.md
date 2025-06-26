@@ -16,7 +16,7 @@
 | réfléĉir           | 考える             | 動詞   | réfléchir                     |
 | avãtür             | 冒険               | 名詞   | aventure                      |
 | réüsir             | 成功する           | 動詞   | réussir                       |
-| crèyõ dë culêr     | 色鉛筆             | 名詞句 | crayon de couleur             |
+| crèyõ dë cúlêr     | 色鉛筆             | 名詞句 | crayon de couleur             |
 | trasé              | 線を引く、描く     | 動詞   | tracer                        |
 | désẽ               | 絵                 | 名詞   | dessin                        |
 | ĉapó               | 帽子               | 名詞   | chapeau                       |
@@ -28,7 +28,7 @@
 | lèsé               | やめる、置く       | 動詞   | laisser                       |
 | abãdòné            | 放棄する           | 動詞   | abandonner                    |
 | caryèr             | 職業、道           | 名詞   | carrière                      |
-| décurayé           | 落胆させる         | 動詞   | décourager                    |
+| décúrayé           | 落胆させる         | 動詞   | décourager                    |
 | éĉèc               | 失敗               | 名詞   | échec                         |
 | cõprãdr            | 理解する           | 動詞   | comprendre                    |
 | fatigãn            | 疲れる             | 形容詞 | fatigant                      |
