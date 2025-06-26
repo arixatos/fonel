@@ -26,7 +26,7 @@ Mwa mõtré antã ën chef dë êvr a mwa a lez grãdz pèrsòn et mwa dëmãdé
 Öz répõdr a mwa : « Púrcwa ën ĉapó fèr pêr ? »  
 Lo désẽ a mwa në réprézãté pa ën ĉapó.  
 Il réprézãté ën sèrpã bwa ci dijéré ën éléfã.  
-Mwa désiné alors antã lo ẽtéryêr dë lo sèrpã bwa, afin cë léz grãdz personnes púvwar cõprãdr.  
+Mwa désiné alors antã lo ẽtéryêr dë lo sèrpã bwa, afin cë léz grãdz pèrsòn púvwar cõprãdr.  
 Öz avwar tújúr bëzwẽ dë ècsplicasyõ.  
 Lo désẽ a mwa nüméró 2 ètr còm sëla :  
 
@@ -35,7 +35,7 @@ Lo désẽ a mwa nüméró 2 ètr còm sëla :
 -->
 <img src="{{ site.baseúrl }}/assets/images/boa_inside.png" alt="中が見える透視図" width="300">
 
-Léz grãdz personnes cõsèyé antã a mwa lèsé dë cóté léz désẽ dë sèrpãz bwas úvèrz oú fèrméz, et seẽtèrésé plütò a lo jéògrafi, a lo istwar, aú calcül et a lo gramèr.  
+Léz grãdz pèrsòn cõsèyé antã a mwa lèsé dë cóté léz désẽ dë sèrpãz bwas úvèrz oú fèrméz, et seẽtèrésé plütò a lo jéògrafi, a lo istwar, aú calcül et a lo gramèr.  
 Sè è ẽsi cë mwa abãdòné antã a lo aj dë siz an ën caryèr mañific dë pẽtr.  
 Mwa ètr décúrayé antã par lo éĉèc dë lo désẽ a mwa nüméró 1 et dë lo désẽ a mwa nüméró 2.  
-Léz grãdz personnes (në) cõprãdr jamèz ryẽ toútes sêlz, et sè è fatigãn púr léz ãfã dë tújúr lêr dòné dë léz ècsplicasyõz.
+Léz grãdz pèrsòn (në) cõprãdr jamèz ryẽ toútes sêlz, et sè è fatigãn púr léz ãfã dë tújúr lêr dòné dë léz ècsplicasyõz.

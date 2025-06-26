@@ -34,4 +34,4 @@
 | fatigãn            | 疲れる             | 形容詞 | fatigant                      |
 | ãfã                | 子ども             | 名詞   | enfant                        |
 | seẽtèrésé          | 興味を持つ         | 動詞   | s'intéresser                  |
-
+| pèrsòn             | 人々               | 名詞   | personnes                     |

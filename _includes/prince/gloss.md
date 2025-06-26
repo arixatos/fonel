@@ -24,17 +24,17 @@
 | Lo désẽ a mwa (në) réprézãté pa ën ĉapó                      | その絵は 表していなかった 帽子を             | でもその絵、帽子なんかじゃない。                          |
 | Il réprézãté ën sèrpã bwa ci dijéré ën éléfã                 | ボアが ゾウを 消化している                   | ゾウを消化してるボアの絵だったんだ。                      |
 | Mwa désiné alors antã l’ẽtéryêr dë lo sèrpã bwa             | だから 昔 描いた ボアの内部を                | それでぼくは、ボアの体の中までちゃんと描いてみせた。      |
-| afin cë léz grãdz personnes púvwar cõprãdr                   | 大人たちが 理解できるように                  | 大人にもわかるように、                                    |
+| afin cë léz grãdz pèrsòn púvwar cõprãdr                      | 大人たちが 理解できるように                  | 大人にもわかるように、                                    |
 | Öz avwar tújúr bëzwẽ dë ècsplicasyõ                          | 彼らはいつも 説明が必要                      | 大人って、いっつも説明が必要                              |
-| Lo désẽ a mwa nüméró dö ètr còm sëla :                     | 私の絵2号は このようだった                   | これが、ぼくの絵2号。                                     |
-| Léz grãdz personnes cõsèyé antã a mwa                        | 大人たちは 昔 助言した 私に                  | 大人たちは、ぼくに助言してきた                            |
+| Lo désẽ a mwa nüméró dö ètr còm sëla :                       | 私の絵2号は このようだった                   | これが、ぼくの絵2号。                                     |
+| Léz grãdz pèrsòn cõsèyé antã a mwa                           | 大人たちは 昔 助言した 私に                  | 大人たちは、ぼくに助言してきた                            |
 | lèsé dë cóté léz désẽ dë sèrpãz bwas úvèrz oú fèrméz         | ボアの開いたり閉じた絵を やめなさい          | 口を開けたり閉じたボアの絵なんて描くのはやめなさい        |
 | et mwa seẽtèrésé plütò a lo jéògrafi, a lo istwar, ...       | むしろ 地理、歴史、数学、文法に 興味を       | むしろ地理とか歴史とか、算数や文法に興味を持ちなさい      |
 | Sè è ẽsi cë mwa abãdòné antã                                 | だから 私は 昔 諦めた                        | こうしてぼくは、あきらめた。                              |
 | a lo aj dë siz an ën caryèr mañific dë pẽtr                  | 6歳で 素晴らしい 画家の道                    | 6歳で、すごい画家になる道を                               |
 | Mwa ètr décúrayé antã par lo éĉèc dë lo désẽ ...             | 私は 昔 落胆した 絵の失敗によって            | 絵の失敗に落胆した                                        |
 | et dë lo désẽ a mwa nüméró dö                                | そして 私の絵2号 にも                        | 絵2号にも、                                               |
-| Léz grãdz personnes (në) cõprãdr jamèz ryẽ toútes sêlz       | 大人たちは 決して 何も 一人では理解しない    | 大人って、決してひとりじゃ理解しない。                    |
+| Léz grãdz pèrsòn (në) cõprãdr jamèz ryẽ toútes sêlz          | 大人たちは 決して 何も 一人では理解しない    | 大人って、決してひとりじゃ理解しない。                    |
 | et sè è fatigãn púr léz ãfã dë tújúr lêr ...                 | そしてそれは 子どもにとって 疲れる           | それって子どものに疲れちゃう。                            |
 
 

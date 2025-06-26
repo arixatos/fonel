@@ -470,12 +470,12 @@
 
 ---
 
-### 38. Léz grãdz personnes (në) cõprãdr jamèz ryẽ toútes sêlz  
+### 38. Léz grãdz pèrsòn (në) cõprãdr jamèz ryẽ toútes sêlz  
 **語義分解：** 大人たちは・理解しない・決して・何も・一人では  
 **和訳：** 大人たちは決してひとりで何も理解しない。
 
 **解説：**  
-- `Léz grãdz personnes`：大人たち（*les grandes personnes*）  
+- `Léz grãdz pèrsòn`：大人たち（*les grandes personnes*）  
 - `(në) ... jamèz ryẽ`：決して何も～ない（*ne ... jamais rien*）  
 - `cõprãdr`：理解する（*comprendre*）  
 - `toútes sêlz`：ひとりで（*toutes seules*）
