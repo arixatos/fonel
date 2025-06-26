@@ -1,4 +1,4 @@
-.main-content {
+.page-content {
   max-width: none !important;
   width: 100% !important;
   margin-left: auto !important;
@@ -8,8 +8,7 @@
 }
 
 @media (min-width: 1200px) {
-  .main-content {
+  .page-content {
     width: 100% !important;
   }
 }
-
