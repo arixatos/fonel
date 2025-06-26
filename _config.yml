@@ -1,36 +1,35 @@
-title: "人工言語 Fonel"        # サイト全体のタイトル。ブラウザのタブやSEOで使われます
-description: 人工言語 Fonel(フォネル) のサイト  # サイトの説明文。検索エンジンなどに使われます
+# サイトの基本情報
+title: "人工言語 Fonel"        # サイト全体のタイトル。ブラウザのタブやSEOに使われます
+description: 人工言語 Fonel(フォネル) のサイト  # サイトの説明文。検索エンジンなどに表示されます
 
-# Just the Docs 設定
-########theme: just-the-docs		# Jekyllテーマ名。ここでは「just-the-docs」を使用
-remote_theme: just-the-docs/just-the-docs
+# Jekyll テーマの指定
+# theme: just-the-docs          # ローカルにテーマがある場合の指定（今回は使わないのでコメントアウト）
+remote_theme: just-the-docs/just-the-docs  # GitHubのリモートリポジトリからテーマを取得する指定
 
+# Just the Docsテーマのカラースキーム（見た目設定）
+color_scheme: wider           # カスタムで作成した 'wider' スキームを使う（ページ幅を広げる設定）
 
-color_scheme: wider
+# カスタムCSSの読み込み設定（現在はすべてコメントアウト）
+# sass:
+#   custom_css: assets/css/custom.scss  # SASSのカスタムCSSファイル（使っていない）
 
+# just_the_docs:
+#   custom_css:
+#     - "assets/css/custom.css"           # CSSのカスタムファイル（使っていない）
 
-# カスタムCSSの読み込み
-######sass:
-######  custom_css: assets/css/custom.scss
+# サイトのURL設定（GitHub Pagesに合わせる）
+url: https://arixatos.github.io      # サイトの基本URL（GitHub PagesのベースURL）
+baseurl: /fonel                      # サイトのベースパス（リポジトリ名に合わせて設定）
 
-just_the_docs:
-  custom_css:
-    - "assets/css/custom.css"
-
-url: https://arixatos.github.io		# サイトの基本URL。GitHub PagesのURLを指定
-baseurl: /fonel						# サイトのベースパス。リポジトリ名に合わせて設定
-
-
-# ナビゲーションバー設定ブロック
+# ナビゲーションバーの設定
 navbar:
-  title: Fonel						# ナビバー左上に表示されるサイトタイトル（ロゴ横のテキスト）
+  title: Fonel                      # ナビバー左上に表示されるサイトタイトル（ロゴ横のテキスト）
   logo:
-    path: assets/img/logo.png		# ナビバーに表示するロゴ画像のパス
-  links:							# ナビバーに表示するリンクリスト
-    - title: GitHub					# 表示名
+    path: assets/img/logo.png       # ナビバーに表示するロゴ画像のパス
+  links:                           # ナビバーに表示するリンクリスト
+    - title: GitHub                 # 表示名
       url: https://github.com/arixatos/fonel  # リンク先URL
 
-
-# サイトの補助的なリンク群（フッターなどに表示されることも）
+# フッターや補助的に表示されるリンク群
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template  # テンプレートのGitHubリポジトリURL
