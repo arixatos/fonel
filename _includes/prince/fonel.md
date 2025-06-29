@@ -1,4 +1,4 @@
-Cã múa avúar siz an antã múa vúar ën fúaz ën imaj mañific dã ën livr ci parlé dë lo Fòrè Vierge et ci avúar púr nõ « Istúarz vécü ».  
+Cã múa avúar siz an antã múa vúar ën fúaz ën imaj mañific dã ën livr ci parlé dë lo Fòrè Vièri et ci avúar púr nõ « Istúarz vécü ».  
 Sëla réprézãté ën sèrpã búa ci avalé ën fóv.  
 Vúala lo còpi dë lo désẽ.  
 
