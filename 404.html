@@ -1,0 +1,89 @@
+---
+layout: default
+title: 404 Not Found
+permalink: /404.html
+---
+
+<style>
+  .flag-bg {
+    display: flex;
+    height: 100vh;
+    margin: 0;
+    font-family: "Segoe UI", sans-serif;
+    color: #2c3e50;
+  }
+  .flag-color {
+    flex: 1;
+  }
+  .blue { background-color: #0055a4; }
+  .white { background-color: #ffffff; }
+  .red { background-color: #ef4135; }
+
+  .content {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: rgba(255,255,255,0.95);
+    padding: 2em;
+    border-radius: 1em;
+    text-align: center;
+    max-width: 600px;
+    box-shadow: 0 0 20px rgba(0,0,0,0.1);
+  }
+  h1 {
+    font-size: 3em;
+    margin-bottom: 0.2em;
+    color: #ef4135;
+  }
+  .fonel {
+    font-size: 1.4em;
+    font-weight: bold;
+    margin-bottom: 0.2em;
+    color: #0055a4;
+  }
+  .jp, .fr {
+    font-size: 1em;
+    color: #555;
+    margin-bottom: 0.4em;
+  }
+  .note {
+    font-size: 0.9em;
+    color: #777;
+    margin-top: 1em;
+  }
+  a.button {
+    display: inline-block;
+    margin-top: 1.5em;
+    padding: 0.7em 1.2em;
+    background-color: #0055a4;
+    color: white;
+    text-decoration: none;
+    border-radius: 0.5em;
+  }
+</style>
+
+
+<div class="flag-bg">
+  <div class="flag-color blue"></div>
+  <div class="flag-color white"></div>
+  <div class="flag-color red"></div>
+
+  <div class="content">
+    <h1>404</h1>
+
+    <img src="{{ site.baseurl }}/assets/images/404-illustration.png" 
+     alt="迷子の象と旅人の少年" 
+     style="max-width: 100%; margin: 2em auto; display: block;">
+
+    <div class="fonel">Cé pag esistu.</div>
+    <div class="jp">このページは存在しません。</div>
+    <div class="fr">Cette page n'existe pas.</div>
+
+    <div class="note">
+      💡 <strong>esistu</strong> = exister（存在する）に対応するFonel語
+    </div>
+
+    <a class="button" href="{{ site.baseurl }}/">トップページへ戻る</a>
+  </div>
+</div>
