@@ -1,17 +1,17 @@
 
 | Fonel語            | 意味               | 品詞   | Français                      |
 |--------------------|--------------------|--------|-------------------------------|
-| mwa                | 私                 | 代名詞 | moi                           |
-| avwar              | 持つ／〜歳である   | 動詞   | avoir                         |
-| vwar               | 見る               | 動詞   | voir                          |
+| múa                | 私                 | 代名詞 | moi                           |
+| avúar              | 持つ／〜歳である   | 動詞   | avoir                         |
+| vúar               | 見る               | 動詞   | voir                          |
 | imaj               | 絵、画像           | 名詞   | image                         |
 | mañific            | 素晴らしい         | 形容詞 | magnifique                    |
 | livr               | 本                 | 名詞   | livre                         |
 | réprézãté          | 表す、描く         | 動詞   | représenter                   |
-| sèrpã bwa          | ボアへび           | 名詞   | serpent boa                   |
+| sèrpã búa          | ボアへび           | 名詞   | serpent boa                   |
 | avalé              | 飲み込む           | 動詞   | avaler                        |
 | diyéré             | 消化する           | 動詞   | digérer                       |
-| prwa               | 獲物               | 名詞   | proie                         |
+| prúa               | 獲物               | 名詞   | proie                         |
 | maĉé               | 噛む               | 動詞   | mâcher                        |
 | réfléĉir           | 考える             | 動詞   | réfléchir                     |
 | avãtür             | 冒険               | 名詞   | aventure                      |
@@ -22,7 +22,7 @@
 | ĉapó               | 帽子               | 名詞   | chapeau                       |
 | éléfã              | ゾウ               | 名詞   | éléphant                      |
 | èntéryêr           | 内部               | 名詞   | intérieur                     |
-| bëzwẽ              | 必要               | 名詞   | besoin                        |
+| bëzúẽ              | 必要               | 名詞   | besoin                        |
 | ècsplicasyõ        | 説明               | 名詞   | explication                   |
 | cõsèyé             | 助言する           | 動詞   | conseiller                    |
 | lèsé               | やめる、置く       | 動詞   | laisser                       |
