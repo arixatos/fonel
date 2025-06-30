@@ -6,9 +6,9 @@ has_children: true
 ---
 
 # 音韻と文字 Prònõsyasyõ é lètr
-<!--
-IPA:    pʁɔ.nɔ̃.sja.sjɔ̃ e lɛtʁ
-Fr:     Prononciation et lettres
+<!--  
+IPA:    pʁɔ.nɔ̃.sja.sjɔ̃ e lɛtʁ  
+Fr:     Prononciation et lettres  
 -->
 
 Fonelの音体系はフランス語を規範とし、  
@@ -16,17 +16,17 @@ Fonelの音体系はフランス語を規範とし、
 
 以下に音素(fònèm)と文字(lettres)の対応を示します。
 
-<!--
-Fr:		Phonèmes
-IPA:	fɔnɛm
-Fr:		Caractères
-IPA:	kaʁaktɛʁ
+<!--  
+Fr:      Phonèmes  
+IPA:     fɔnɛm  
+Fr:      Caractères  
+IPA:     kaʁaktɛʁ  
 -->
 
 ### 単母音 Vwayèl sẽpl
-<!--
-IPA:    vwajɛl sɛ̃pl
-Fr:     Voyelles simples
+<!--  
+IPA:    vwajɛl sɛ̃pl  
+Fr:     Voyelles simples  
 -->
 
 | 音素  | 文字  | ASCII代替表記 | 大文字 | cf. Fransè              |
@@ -52,9 +52,9 @@ Fr:     Voyelles simples
 >   ・/o/, /ɔ/ は必要に応じて **o** として統一可
 
 ### 鼻母音 Vwayèl nazal
-<!--
-IPA:    vwa.jɛl na.zal
-Fr:     Voyelles nasales
+<!--  
+IPA:    vwa.jɛl na.zal  
+Fr:     Voyelles nasales  
 -->
 
 | 音素 | 小文字| ASCII代替表記 | 大文字| cf. Fransè      |
@@ -72,16 +72,16 @@ Fr:     Voyelles nasales
 > ライセンス：Creative Commons Attribution‑ShareAlike 4.0 International (CC BY‑SA 4.0)
 
 ### 二重母音・連母音 Diftõɡ é ãĉènëmã
-<!--
-IPA:    diftɔ̃ɡ‿e‿ɑ̃ʃɛnəmɑ̃
-Fr:     diphtongues et enchaînements
+<!--  
+IPA:    diftɔ̃ɡ‿e‿ɑ̃ʃɛnəmɑ̃  
+Fr:     diphtongues et enchaînements  
 -->
 
 | 音素  | 文字  | ASCII代替表記 | cf. Fransè              |
 |-------|-------|---------------|-------------------------|
 | /aj/  | ai    | -             | ail, aï                 |
-| /ɛj/  | ei    | -             | eil                     |
-| /wa/  | úa    | ua            | oi                      |
+| /ɛj/  | ei    | -             | soleil, pareil          |
+| /wa/  | úa    | ua            | moi                     |
 | /wi/  | úi    | ui            | oui                     |
 | /ja/  | ia    | ia            | yeux (lier)             |
 | /je/  | ie    | ie            | yeux (lier)             |
@@ -91,9 +91,9 @@ Fr:     diphtongues et enchaînements
 > /jo/, /we/, /wo/ などは標準フランス語の音韻体系にはほぼ存在しません。
 
 ### 子音 Cõsòn
-<!--
-IPA:    kɔ̃sɔn
-Fr:     Consonnes
+<!--  
+IPA:    kɔ̃sɔn  
+Fr:     Consonnes  
 -->
 
 | 音素  |小文字 | ASCII代替表記 | 大文字| cf. Fransè  |
@@ -119,9 +119,9 @@ Fr:     Consonnes
 | /h/   | h     | -             | H     | h (無音)    |
 
 ### 複合子音 Cõsòn cõbiné
-<!--
-IPA:    kɔ̃sɔn kɔ̃bine
-Fr:     Consonnes combinées
+<!--  
+IPA:    kɔ̃sɔn kɔ̃bine  
+Fr:     Consonnes combinées  
 -->
 
 | 音素   | 文字   | ASCII代替表記 | cf. Fransè                  |
@@ -160,29 +160,76 @@ Fonelにおいても「必要なら書き分けるが、常に厳密でなくて
 ---
 
 # 半母音化と表記 Prònõsyasyõ dimiñu é lèskrìtùr
-<!--
-IPA: pʁɔ.nɔ̃.sja.sjɔ̃ dimiɲy e lɛskʁityʁ
-Fr: diphtongaison et écriture
+<!--  
+IPA: pʁɔ.nɔ̃.sja.sjɔ̃ dimiɲy e lɛskʁityʁ  
+Fr: diphtongaison et écriture  
 -->
 
-Fonel語では、元々高母音 /i/、/u/ は多くの場合、語幹内では半母音 [j]、[w] として現れています。  
-したがって、語中や語間での半母音化は、**語幹の境界や接辞の結合部において生じる音韻変化**として扱うのが自然です。
+Fonel語では、**高母音 /i/ および /u/** は、語中においてしばしば半母音 [j], [w] に近い音として発音されます。  
+ただしこれは音韻的な変化にとどまり、**綴字としては i, u のまま保持されます**。
 
 ---
 
-#### /y/ 音について
+### 接辞結合時の半母音化
 
-- 前舌円唇母音 /y/ は限定的で、接辞連結部でも同様に半母音 [ɥ] に変化することがあるが、現在は正式規則には含めない。
+- **原則**：  
+  語幹の末尾が /i/ または /u/ で終わる場合、母音で始まる接辞が後続すると、  
+  /i/ → [j]、/u/ → [w] のような**半母音化**が生じる。
+
+- **例**：  
+  | 語幹 | 接辞 | 発音    | 綴字   |
+  |------|------|---------|--------|
+  | fini | -e   | /finje/ | finie  |
+  | nu   | -e   | /nwe/   | nue    |
+
+- **子音で始まる接辞の場合**：  
+  半母音化は起こらず、/i/, /u/ はそのまま母音として発音される。
+  
+  > 例：`finiz`（語幹 *fini* + 接辞 *z*）→ 発音 /finiz/
 
 ---
 
-#### まとめ
+### /y/ の扱い
 
-| 音素  | 環境                        | 音変化  | 表記            | 備考               |
-|-------|-----------------------------|---------|-----------------|--------------------|
-| /i/   | 語幹末尾 + 母音で始まる接辞 | [j]     | 綴りは i のまま | 音韻規則で自動解釈 |
-| /u/   | 同上                        | [w]     | 綴りは u のまま | 同上               |
-| /y/   | 同上                        | [ɥ]     | 今後の検討対象  | 限定的使用         |
+- 前舌円唇母音 /y/（仏語 *u*）は、場合によって [ɥ] に近づくことがあるが、  
+  Fonelでは現在のところ、**半母音化の正式ルールには含めない**。
+
+---
+
+### まとめ
+
+| 音素 | 環境                         | 音変化 | 綴字     | 備考               |
+|------|------------------------------|--------|----------|--------------------|
+| /i/  | 語幹末 + 母音接辞            | [j]    | i のまま | 音韻変化として扱う |
+| /u/  | 同上                         | [w]    | u のまま | 同上               |
+| /y/  | 同上（限定的）               | [ɥ]    | ü        | 検討対象           |
+
+---
+
+### 二重母音に現れる /j/, /w/
+
+Fonel語において、/j/, /w/ は独立した子音として扱われず、**二重母音の一部としてのみ表現**されます。  
+代表的なものを以下に示します：
+
+| 音素  | 表記 | ASCII代替 | 対応する仏語例 |
+|-------|------|-----------|----------------|
+| /aj/  | ai   | -         | ail, aï        |
+| /ɛj/  | ei   | -         | soleil, pareil |
+| /wa/  | úa   | ua        | moi            |
+| /wi/  | úi   | ui        | oui            |
+
+> 💡 `/jo/`, `/we/`, `/wo/` などは標準仏語には**ほぼ存在せず**、Fonelでも通常は使用しません。  
+> `/ja/`, `/je/` もごく一部の**語間連結（リエゾン）**で現れる例外的な音形です。
+
+---
+
+### 表記方針
+
+- 半母音化は**音韻変化として自動解釈される**ため、綴字上は i, u のまま保持されます。  
+  例：`finie`（/finje/）、`nue`（/nwe/）
+
+- 教育用途などで半母音を明示した補助表記（例：*finye*, *nuwe*）も許容されますが、  
+  正式表記としては採用されません。
 
 ---
 
