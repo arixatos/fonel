@@ -15,9 +15,9 @@ nav_order: 30
 |----------------------------------|------------------|--------------------|----------------------|
 | a byẽto!                         | [a bjɛ̃to]       | 「またね」         | À bientôt!           |
 | a dëmẽ!                          | [a dəmɛ̃]        | 「また明日」       | À demain!            |
-| a tut a lo êr!                   | [a tut a lo œʁ]  | 後ほど             | À tout à l'heure!    |
+| a tút a lo êr!                   | [a tut a lo œʁ]  | 後ほど             | À tout à l'heure!    |
 
-※ 表中の **a tut a lo êr!** に加えて、**a tut a la êr!** も同様に使われます。`êr` は女性名詞（cf. *heure*）のため、`la` を用いる形も正用です。
+※ 表中の **a tút a lo êr!** に加えて、**a tút a la êr!** も同様に使われます。`êr` は女性名詞（cf. *heure*）のため、`la` を用いる形も正用です。
 
 ---
 
@@ -41,7 +41,7 @@ nav_order: 30
 - **対応するフランス語**：À demain!
 - **備考**：翌日に再会する約束がある場合に使う。
 
-### a tut a lo êr! / a tut a la êr! / a tut a l' êr!（脱落形）
+### a tút a lo êr! / a tút a la êr! / a tút a l' êr!（脱落形）
 - **発音**：
   - 共通形：[a tut a lo œʁ]
   - 女性形：[a tut a la œʁ]
@@ -49,7 +49,7 @@ nav_order: 30
 - **意味**：「後ほどまた」
 - **語源**：
   - `a` = 「〜に」
-  - `tut` = 「すべて」
+  - `tút` = 「すべて」
   - `a` = 再び「〜に」
   - `lo / la êr` = 「その時間」 (`êr`＝「時間」)
 - **対応するフランス語**：À tout à l'heure!
@@ -82,7 +82,7 @@ nav_order: 30
 | a         | [a]       | 〜へ、〜に          | à                       |
 | byẽto     | [bjɛ̃to]  | すぐに、またね      | bientôt                 |
 | dëmẽ      | [dəmɛ̃]   | 明日                | demain                  |
-| tut       | [tut]     | 全て                | tout                    |
+| tút       | [tut]     | 全て                | tout                    |
 | lo        | [lo]      | 定冠詞（単数共通）  | le / la / l’（短縮形） |
 | lë        | [lə]      | 定冠詞（単数男性）  | le                      |
 | la        | [la]      | 定冠詞（単数女性）  | la                      |
