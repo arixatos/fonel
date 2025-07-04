@@ -1,7 +1,7 @@
 ---
 title: キャッチコピー集
 layout: default
-nav_order: 1000
+nav_order: 3000
 ---
 
 Fonelのキャッチコピー集

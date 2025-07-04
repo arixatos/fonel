@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 名詞句
-nav_order: 500
+title: 関係代名詞
+nav_order: 1000
 has_children: true
 ---
 

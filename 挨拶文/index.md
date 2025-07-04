@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 挨拶文
-nav_order: 40
+nav_order: 300
 has_children: true
 ---
 

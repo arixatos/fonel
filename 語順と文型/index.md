@@ -1,7 +1,7 @@
 ---
 title: 語順と文型
 layout: default
-nav_order: 850
+nav_order: 800
 has_children: true
 ---
 

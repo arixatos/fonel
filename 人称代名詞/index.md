@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 人称代名詞
-nav_order: 70
+nav_order: 700
 ---
 
 # 人称代名詞

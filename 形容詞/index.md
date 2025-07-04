@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 形容詞
-nav_order: 70
+nav_order: 600
 has_children: true
 ---
 
