@@ -1,0 +1,162 @@
+# 副詞による時制表現
+
+Fonel語では、時制は動詞の活用ではなく、**副詞的表現**によって示されます。以下に代表的な時制と対応する副詞構造を示します。
+
+---
+
+## 1. 現在時制（Présent）
+
+- **構文**：`[代名詞] + [（任意の副詞）] + [動詞原形]`
+- **意味**：現在の状態・習慣的行動・反復動作など
+- **例**：
+  - `moi manger` – 私は今食べる / 普段食べる  
+  - `toi parler` – 君は話す  
+  - `moi maintenant manger` – 私は今まさに食べている  
+  - `toi toujours parler` – 君はいつも話している
+
+※ 文脈や副詞によって「現在」「習慣」「一時的動作」などの意味を補う
+
+
+---
+
+## 2. 近過去（Passé proche）
+
+- **構文**：`[代名詞] + déjà + [動詞原形]`
+- **意味**：「もう〜した」「〜したところ」
+- **例**：
+  - `moi déjà manger` – 私はもう食べた  
+  - `lui déjà finir` – 彼はもう終えた
+
+---
+
+## 3. 遠過去（Passé éloigné）
+
+- **構文**：`[代名詞] + avant + [動詞原形]`
+- **意味**：「以前〜した」
+- **例**：
+  - `nous avant voir ce film` – 私たちは以前この映画を見た  
+  - `toi avant vivre ici` – 君は前ここに住んでいた
+
+※ 明確な過去の一時点を示す副詞句とともに使うこともできる：  
+  - `toi avant deux ans travailler là`（君は2年前そこに働いていた）
+
+---
+
+## 4. 半過去（Imparfait）
+
+- **構文**：`[代名詞] + souvent / toujours / parfois + [動詞原形]`
+- **意味**：習慣・継続的状態の過去
+- **例**：
+  - `moi souvent rêver` – 私はよく夢を見ていた  
+  - `eux toujours jouer ici` – 彼らはいつもここで遊んでいた
+
+---
+
+## 5. 近未来（Futur proche）
+
+- **構文**：`[代名詞] + bientôt / tout de suite + [動詞原形]`
+- **意味**：「もうすぐ〜する」「これから〜する」
+- **例**：
+  - `elle bientôt arriver` – 彼女はもうすぐ着く  
+  - `vous tout de suite commencer` – 君たちはすぐに始める
+
+---
+
+## 6. 未来（Futur simple）
+
+- **構文**：`[代名詞] + demain / plus tard / un jour + [動詞原形]`
+- **意味**：「将来〜する」
+- **例**：
+  - `nous demain partir` – 明日私たちは出発する  
+  - `moi un jour comprendre` – いつか私は理解するだろう
+
+---
+
+## 7. 未来完了（Futur antérieur）
+
+- **構文**：`[代名詞] + déjà + [futur副詞] + [動詞原形]`
+- **意味**：未来のある時点までに完了する動作
+- **例**：
+  - `toi déjà demain finir` – 君は明日までにはもう終えているだろう  
+  - `elle déjà ce soir partir` – 彼女は今晩までにはもう出発しているだろう
+
+---
+
+## 8. 条件法的未来（Potentiel）
+
+- **構文**：`[代名詞] + peut-être + [動詞原形]`
+- **意味**：「〜かもしれない」「おそらく〜するだろう」
+- **例**：
+  - `eux peut-être revenir` – 彼らは戻ってくるかもしれない  
+  - `moi peut-être accepter` – 私はもしかすると受け入れるかもしれない
+
+---
+
+## 備考：時間副詞の一覧
+
+| 時間副詞         | 意味                         |
+|------------------|------------------------------|
+| maintenant       | 今                           |
+| déjà             | すでに                       |
+| avant            | 以前                         |
+| souvent / toujours / parfois | 過去の継続・習慣     |
+| bientôt          | まもなく                     |
+| tout de suite    | すぐに                       |
+| demain           | 明日                         |
+| plus tard        | 後で                         |
+| un jour          | いつか                       |
+| ce soir          | 今晩                         |
+| peut-être        | もしかすると（可能性）       |
+
+---
+
+## まとめ
+
+Fonel語では、動詞の活用に頼らず、文法的時制はすべて副詞表現によって表現されます。文の理解には語順と副詞の意味が重要であり、時制を厳密に使い分ける必要がある場合は文脈によって補われます。
+
+# フランス語単語一覧（副詞による時制表現より）
+
+| 単語            | 発音記号（IPA）        | 意味                             |
+|------------------|--------------------------|----------------------------------|
+| présent          | /pʁe.zɑ̃/               | 現在（時制名）                   |
+| passé            | /pa.se/                 | 過去                             |
+| proche           | /pʁɔʃ/                  | 近い                             |
+| éloigné          | /e.lwa.ɲe/              | 遠い                             |
+| imparfait        | /ɛ̃.paʁ.fɛ/             | 半過去                           |
+| futur            | /fy.tyʁ/                | 未来                             |
+| simple           | /sɛ̃pl/                 | 単純な                           |
+| antérieur        | /ɑ̃.te.ʁjœʁ/            | より前の                         |
+| potentiel        | /pɔ.tɑ̃.sjɛl/           | 可能性のある（条件的未来）       |
+| moi              | /mwa/                   | 私（強勢形代名詞）              |
+| toi              | /twa/                   | 君（強勢形代名詞）              |
+| lui              | /lɥi/                   | 彼（強勢形代名詞）              |
+| nous             | /nu/                    | 私たち                          |
+| vous             | /vu/                    | 君たち・あなた（強勢形）        |
+| eux              | /ø/                     | 彼ら（強勢形代名詞）            |
+| elle             | /ɛl/                    | 彼女（強勢形代名詞）            |
+| parler           | /paʁ.le/                | 話す                            |
+| manger           | /mɑ̃.ʒe/                | 食べる                          |
+| finir            | /fi.niʁ/                | 終える                          |
+| voir             | /vwaʁ/                  | 見る                            |
+| vivre            | /vivʁ/                  | 生きる・住む                    |
+| travailler       | /tʁa.va.jɛ/             | 働く                            |
+| rêver            | /ʁɛ.ve/                 | 夢を見る                        |
+| jouer            | /ʒwe/                   | 遊ぶ                            |
+| arriver          | /a.ʁi.ve/               | 着く                            |
+| commencer        | /kɔ.mɑ̃.se/             | 始める                          |
+| partir           | /paʁ.tiʁ/               | 出発する                        |
+| comprendre       | /kɔ̃.pʁɑ̃dʁ/            | 理解する                        |
+| revenir          | /ʁə.və.niʁ/             | 戻る                            |
+| accepter         | /ak.sɛp.te/             | 受け入れる                      |
+| déjà             | /de.ʒa/                 | すでに                          |
+| avant            | /a.vɑ̃/                 | 前に（以前に）                  |
+| souvent          | /su.vɑ̃/                | よく                            |
+| toujours         | /tu.ʒuʁ/                | いつも                          |
+| parfois          | /paʁ.fwa/               | ときどき                        |
+| bientôt          | /bjɛ̃.to/               | まもなく                        |
+| tout de suite    | /tu.də.sɥit/            | すぐに                          |
+| demain           | /də.mɛ̃/                | 明日                            |
+| plus tard        | /ply.taʁ/               | 後で                            |
+| un jour          | /œ̃.ʒuʁ/                | いつか                          |
+| ce soir          | /sə.swaʁ/               | 今晩                            |
+| peut-être        | /pø.t‿ɛtʁ/              | もしかすると（可能性）         |
