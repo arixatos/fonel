@@ -37,6 +37,11 @@ index.md(4,1)  [UTF-8]: nav_order: 1
 
 		疑問文\index.md(4,1)  [UTF-8]: nav_order: 900
 
+
+	時制
+
+		950
+
 	関係代名詞
 
 		1000
