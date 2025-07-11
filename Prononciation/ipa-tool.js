@@ -1,10 +1,10 @@
 function convert() {
   let ipa = document.getElementById('ipaInput').value;
 
-  // ステップ0：マーカー文字をあらかじめ削除しておく
+  // マーカーに使う文字を事前削除
   ipa = ipa.replace(/‹‹|››/g, '');
 
-  // 変換ルール
+  // 音素置換ルール（長い音素から順に）
   const rules = [
     ['t͡s', 'tz'], ['d͡z', 'dz'], ['tʃ', 'tĉ'], ['dʒ', 'dj'],
     ['œ̃', 'ũ'], ['ɑ̃', 'ã'], ['ɛ̃', 'ẽ'], ['ɔ̃', 'õ'],
@@ -15,16 +15,17 @@ function convert() {
     ['ŋ', 'ng'], ['j', 'i'], ['w', 'ú'], ['ɡ', 'g']
   ];
 
-  // ステップ1：変換元をマーカーに退避
+  // ステップ1：すべての from を ‹‹...›› に退避（正規表現で）
   for (const [from, _] of rules) {
-    ipa = ipa.split(from).join(`‹‹${from}››`);
+    const re = new RegExp(from.normalize('NFC'), 'g');
+    ipa = ipa.replace(re, `‹‹${from}››`);
   }
 
-  // ステップ2：マーカーを変換先に置換
+  // ステップ2：‹‹...›› を to に変換
   for (const [from, to] of rules) {
-    ipa = ipa.split(`‹‹${from}››`).join(to);
+    const marker = `‹‹${from}››`;
+    ipa = ipa.split(marker).join(to);
   }
 
-  // 出力
   document.getElementById('output').innerText = `フォネル表記：\n${ipa}`;
 }
