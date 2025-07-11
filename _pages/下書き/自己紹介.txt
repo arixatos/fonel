@@ -1,0 +1,68 @@
+# フランス語の自己紹介の表現
+
+## ✅ 基本の自己紹介
+
+| フランス語             | 発音（IPA）             | 意味             |
+|----------------------|-------------------------|------------------|
+| Bonjour.             | /bɔ̃.ʒuʁ/               | こんにちは       |
+| Je m'appelle Marie.  | /ʒə ma.pɛl ma.ʁi/       | 私の名前はマリです。 |
+| Enchanté(e).         | /ɑ̃.ʃɑ̃.te/              | はじめまして     |
+
+※女性が話すときは **Enchantée** と語尾に e を付けます（発音は同じ）。
+
+---
+
+## ✅ 年齢・出身・職業などの情報
+
+| フランス語                     | 発音（IPA）                 | 意味                    |
+|------------------------------|-----------------------------|-------------------------|
+| J'ai 25 ans.                 | /ʒɛ vɛ̃ sɛ̃ kɛ̃z‿ɑ̃/        | 25歳です。              |
+| Je viens du Japon.           | /ʒə vjɛ̃ dy ʒa.pɔ̃/         | 日本から来ました。       |
+| J'habite à Tokyo.            | /ʒa.bit a to.kjo/           | 東京に住んでいます。     |
+| Je suis étudiant(e).         | /ʒə sɥi‿e.ty.djɑ̃(t)/       | 学生です。              |
+| Je travaille dans une école. | /ʒə tʁa.vaj dɑ̃.z‿yn e.kɔl/ | 学校で働いています。     |
+
+---
+
+## ✅ 興味・趣味を話すとき
+
+| フランス語                  | 発音（IPA）             | 意味                    |
+|---------------------------|--------------------------|-------------------------|
+| J'aime la musique.        | /ʒɛm la my.zik/          | 音楽が好きです。        |
+| J'aime lire et voyager.   | /ʒɛm liʁ e vwa.ja.ʒe/    | 読書と旅行が好きです。  |
+| Je parle un peu français. | /ʒə paʁl ɛ̃ pø fʁɑ̃.sɛ/  | フランス語を少し話します。|
+
+---
+
+## ✅ 自己紹介の例文（カジュアル）
+
+```
+Bonjour, je m'appelle Ken.
+J'ai 30 ans et je viens du Japon.
+J'habite à Osaka et je suis ingénieur.
+J'aime la cuisine française et les voyages.
+Enchanté !
+```
+
+---
+
+## ✅ 自己紹介の例文（フォーマル）
+
+```
+Bonjour, je me présente : je m'appelle Yuki Tanaka.
+Je suis traductrice et je travaille pour une entreprise internationale.
+Je viens du Japon et j'habite à Paris depuis deux ans.
+Je suis ravie de faire votre connaissance.
+```
+
+---
+
+## ✅ 自己紹介に使える便利な表現集
+
+| フランス語                            | 発音（IPA）                     | 意味                     |
+|-------------------------------------|---------------------------------|--------------------------|
+| Je me présente.                     | /ʒə mə pʁe.zɑ̃t/                | 自己紹介します。         |
+| C'est un plaisir de vous rencontrer.| /sɛ t‿œ̃ ple.ziʁ də vu ʁɑ̃.kɔ̃.tʁe/ | お会いできてうれしいです。|
+| Je suis content(e) d'être ici.      | /ʒə sɥi kɔ̃.tɑ̃(t) dɛ.tʁ‿i.si/   | ここに来られてうれしいです。|
+
+---

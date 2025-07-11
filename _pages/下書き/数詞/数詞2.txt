@@ -1,0 +1,44 @@
+# 数詞対応表：人工言語 × フランス語（0〜10000代表例）
+
+| 数字 | 人工言語 | IPA | フランス語 | 仏語IPA |
+|------|----------|-----|------------|---------|
+| 0 | nul | /nyl/ | zéro | /ze.ʁo/ |
+| 1 | ún | /yn/ | un | /œ̃/ |
+| 2 | dé | /de/ | deux | /dø/ |
+| 3 | tró | /tʁo/ | trois | /tʁwɑ/ |
+| 4 | cat | /kat/ | quatre | /katʁ/ |
+| 5 | cín | /sɛ̃/ | cinq | /sɛ̃k/ |
+| 6 | sís | /sis/ | six | /sis/ または /si/ |
+| 7 | sét | /sɛt/ | sept | /sɛt/ |
+| 8 | uít | /ɥit/ | huit | /ɥit/ |
+| 9 | néf | /nɛf/ | neuf | /nœf/ |
+
+| 10 | ún-dí | /yn-di/ | dix | /dis/ または /di/ |
+| 11 | ún-dí-ún | /yn-di-yn/ | onze | /ɔ̃z/ |
+| 12 | ún-dí-dé | /yn-di-de/ | douze | /duz/ |
+| 13 | ún-dí-tró | /yn-di-tʁo/ | treize | /tʁɛz/ |
+| 14 | ún-dí-cat | /yn-di-kat/ | quatorze | /ka.tɔʁz/ |
+| 15 | ún-dí-cín | /yn-di-sɛ̃/ | quinze | /kɛ̃z/ |
+| 16 | ún-dí-sís | /yn-di-sis/ | seize | /sɛz/ |
+| 17 | ún-dí-sét | /yn-di-sɛt/ | dix-sept | /dis.sɛt/ |
+| 18 | ún-dí-uít | /yn-di-ɥit/ | dix-huit | /di.zɥit/ |
+| 19 | ún-dí-néf | /yn-di-nɛf/ | dix-neuf | /diz.nœf/ |
+| 20 | dé-dí | /de-di/ | vingt | /vɛ̃/ |
+
+| 30 | tró-dí | /tʁo-di/ | trente | /tʁɑ̃t/ |
+| 40 | cat-dí | /kat-di/ | quarante | /ka.ʁɑ̃t/ |
+| 50 | cín-dí | /sɛ̃-di/ | cinquante | /sɛ̃.kɑ̃t/ |
+| 60 | sís-dí | /sis-di/ | soixante | /swa.sɑ̃t/ |
+| 70 | sét-dí | /sɛt-di/ | soixante-dix | /swa.sɑ̃t.dis/ |
+| 80 | uít-dí | /ɥit-di/ | quatre-vingts | /katʁə.vɛ̃/ |
+| 90 | néf-dí | /nɛf-di/ | quatre-vingt-dix | /katʁə.vɛ̃.dis/ |
+| 99 | néf-dí-néf | /nɛf-di-nɛf/ | quatre-vingt-dix-neuf | /katʁə.vɛ̃.diz.nœf/ |
+
+| 100 | ún-cén | /yn-sɛn/ | cent | /sɑ̃/ |
+| 101 | ún-cén-ún | /yn-sɛn-yn/ | cent un | /sɑ̃.t‿œ̃/ |
+
+| 1000 | ún-mil | /yn-mil/ | mille | /mil/ |
+| 1001 | ún-mil-ún | /yn-mil-yn/ | mille un | /mil œ̃/ |
+| 2345 | dé-mil-tró-cén-cat-dí-cín | /de-mil-tʁo-sɛn-kat-di-sɛ̃/ | deux mille trois cent quarante-cinq | /dø mil tʁwa sɑ̃ ka.ʁɑ̃t sɛ̃k/ |
+| 9999 | néf-mil-néf-cén-néf-dí-néf | /nɛf-mil-nɛf-sɛn-nɛf-di-nɛf/ | neuf mille neuf cent quatre-vingt-dix-neuf | /nœf mil nœf sɑ̃ katʁə vɛ̃ dis nœf/ |
+| 10000 | dí-mil | /di-mil/ | dix mille | /dis mil/ |

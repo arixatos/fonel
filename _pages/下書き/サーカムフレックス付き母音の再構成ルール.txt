@@ -1,0 +1,67 @@
+# フォネル語：サーカムフレックス付き母音の再構成ルール
+
+## 概要
+
+フランス語におけるサーカムフレックス（ˆ）は、歴史的に *s* が脱落した痕跡である場合が多い。  
+フォネル語では、こうしたサーカムフレックスが付いた母音を含む単語について、**語源的に *s* に由来する場合に限り、該当母音の直後に *s* を再挿入**する。
+
+ただし、語源において *s* が存在しないことが明らかな単語（長母音やギリシャ語由来など）は**例外として s を挿入しない**。
+
+---
+
+## 規則（Règle）
+
+- 対象母音：â, ê, î, ô, û
+- 条件　　：語源において脱落した *s* に由来すると認められること
+- 処理　　：該当母音の直後に *s* を挿入する
+
+---
+
+## 適用例（s 由来）
+
+| フランス語形 | 最長発音（IPA） | 意味       | フォネル語形 | 備考                     |
+|--------------|------------------|------------|---------------|--------------------------|
+| fête         | /fɛt‿ø/          | 祭り       | feste         | 古形 *feste* より復元     |
+| forêt        | /fɔʁɛ‿vɛʁt/      | 森（緑の森）| forest        | *forestis* より           |
+| hôpital      | /n‿opital/       | 病院（私の）| hospital      | *hospitalis* より         |
+| bête         | /bɛt‿ɛl/         | 獣（彼女は）| beste         | *bestia* より             |
+| château      | /ʃɑto‿ʁoz/       | 城（ピンクの）| chasteau    | 古形 *castel* 由来         |
+| goût         | /gu‿ɑ̃/          | 味（1つの味）| goust        | 古形 *goust*              |
+| coût         | /ku‿ɛl/          | 費用（彼女は）| coust       | 古形 *coust*              |
+| pâte         | /pat‿ɑ̃/         | ペースト（1つの）| paste     | *pasta* より              |
+| nôtre        | /nɔtʁ‿ami/       | 我々の友達 | nostre        | *noster* より             |
+| vôtre        | /vɔtʁ‿ami/       | 君たちの友達 | vostre       | *vester* より             |
+
+---
+
+## 非適用例（s 非由来）
+
+以下は、サーカムフレックスが**s に由来しない**とされる語であり、*s* の再挿入は行わない。
+
+| フランス語形 | 最長発音（IPA） | 意味         | フォネル語形 | 備考                     |
+|--------------|------------------|--------------|---------------|--------------------------|
+| âme          | /am‿etɛʁnɛl/     | 魂（永遠の魂）| ame           | *anima*（s無関与）        |
+| âge          | /ɑʒ‿avɑ̃se/      | 年齢（高齢） | age           | *aetatem*（sなし）        |
+| cône         | /kon‿ɛkilatɛʁal/ | 円錐（正三角）| cone          | *conus*（sなし）          |
+| théâtre      | /teɑtʁ‿ɑ̃ʒlɛ/    | 劇場（英国の）| teatro        | *θέατρον*（η反映）         |
+| diplôme      | /diplom‿ofisjɛl/ | 卒業証書（公式な）| diplome   | *diplōma*（ω反映）        |
+| arôme        | /aʁom‿natʁɛl/    | 香り（自然な）| arome         | *arōma*（ω反映）          |
+| symptôme     | /sɛ̃ptom‿akyt/    | 症状（急性の）| symptome      | *symptōma*（ω反映）       |
+| fantôme      | /fɑ̃tom‿ɛspanyɔl/| 幽霊（スペイン風）| fantome  | *phantōma*（ω反映）       |
+
+---
+
+## 備考
+
+- **最長発音**とは、リエゾン・エリジオンを含めた連結環境下での音声実現形を示す。
+- フォネル語では、語源と音声の両面から見て合理的な綴字を目指しているため、s の復元は「可視化・表記統一」の観点から行われる。
+- 再挿入された *s* は音声上消失・同化・無声化される場合もあるが、書記上は原則として残す。
+
+---
+
+## 参照資料
+
+- TLFi: *Trésor de la langue française informatisé*
+- CNRTL: *Centre National de Ressources Textuelles et Lexicales*
+- Wikipédia: *Accent circonflexe en français*
+- OQLF: *Accent circonflexe - Vitrine linguistique*

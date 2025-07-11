@@ -1,0 +1,65 @@
+## 10. 天気・気候の表現（le temps / le climat）
+
+フランス語では天気の表現に主に3つの構文が使われます：
+
+### ✅ 1. **Il fait + [形容詞 / 名詞]**
+
+| 表現                 | 発音（IPA）         | 意味         |
+|----------------------|----------------------|--------------|
+| Il fait beau.        | /il fɛ bo/           | 良い天気です |
+| Il fait chaud.       | /il fɛ ʃo/           | 暑いです     |
+| Il fait froid.       | /il fɛ fʁwa/         | 寒いです     |
+| Il fait mauvais.     | /il fɛ mɔ.vɛ/        | 天気が悪い   |
+| Il fait du vent.     | /il fɛ dy vɑ̃/       | 風が吹いています |
+| Il fait du soleil.   | /il fɛ dy sɔ.lɛj/    | 日が出ています |
+| Il fait humide.      | /il fɛ y.mid/        | 湿っています |
+
+---
+
+### ✅ 2. **Il y a + [名詞]**
+
+| 表現                   | 発音（IPA）           | 意味               |
+|------------------------|------------------------|--------------------|
+| Il y a du vent.        | /il‿ja dy vɑ̃/         | 風がある           |
+| Il y a du brouillard.  | /il‿ja dy bʁu.jaʁ/     | 霧が出ている       |
+| Il y a des nuages.     | /il‿ja de nɥaʒ/        | 雲が出ている       |
+| Il y a une tempête.    | /il‿ja yn tɑ̃.pɛt/     | 嵐がある           |
+
+---
+
+### ✅ 3. **Il + 動詞**
+
+| 表現                 | 発音（IPA）         | 意味         |
+|----------------------|----------------------|--------------|
+| Il pleut.            | /il plø/             | 雨が降っている |
+| Il neige.            | /il nɛʒ/             | 雪が降っている |
+| Il gèle.             | /il ʒɛl/             | 凍っている     |
+| Il tonne.            | /il tɔn/             | 雷が鳴っている |
+
+---
+
+### ✅ 補足表現
+
+| 表現                     | 発音（IPA）           | 意味             |
+|--------------------------|------------------------|------------------|
+| C’est nuageux.           | /sɛ nɥa.ʒø/            | 曇っています     |
+| C’est orageux.           | /sɛ ɔ.ʁa.ʒø/           | 雷雨です         |
+| La météo est mauvaise.   | /la me.te.o ɛ mɔ.vɛz/  | 天気が悪いです   |
+
+---
+
+### ✅ 例文
+
+- **Il fait beau aujourd’hui.**  
+  /il fɛ bo o.ʒuʁ.dɥi/  
+  → 今日は良い天気です。
+
+- **Il pleut beaucoup en automne.**  
+  /il plø bo.ku ɑ̃ no.tɔn/  
+  → 秋には雨がよく降ります。
+
+- **Il y a du vent et des nuages.**  
+  /il‿ja dy vɑ̃ e de nɥaʒ/  
+  → 風と雲があります。
+
+---

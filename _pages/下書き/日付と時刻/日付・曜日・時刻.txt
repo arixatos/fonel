@@ -1,0 +1,39 @@
+# フランス語の年月日・曜日・時刻
+
+## 1. 年（l’année）
+
+- 数字のまま表現する（日本語のような「西暦」や「年号」は使わない）  
+- 例：
+  - **2025年** → *deux mille vingt-cinq*（/dø mil vɛ̃ sɛ̃k/）  
+
+✅ 補足：  
+1000年代は「mille」/mil/、2000年代は「deux mille」/dø mil/ から始まる。
+
+---
+
+## 2. 月（le mois）
+
+| フランス語 | 発音（IPA） | 日本語 |
+|------------|-------------|--------|
+| janvier    | /ʒɑ̃.vje/    | 1月    |
+| février    | /fe.vʁi.e/   | 2月    |
+| mars       | /maʁs/       | 3月    |
+| avril      | /a.vʁil/     | 4月    |
+| mai        | /mɛ/         | 5月    |
+| juin       | /ʒɥɛ̃/        | 6月    |
+| juillet    | /ʒɥi.jɛ/      | 7月    |
+| août       | /ut/         | 8月    |
+| septembre  | /sɛp.tɑ̃bʁ/  | 9月    |
+| octobre    | /ɔk.tɔbʁ/    | 10月   |
+| novembre   | /nɔ.vɑ̃bʁ/   | 11月   |
+| décembre   | /de.sɑ̃bʁ/   | 12月   |
+
+---
+
+## 3. 日にち（le jour）
+
+- 基本は **数字**（基数）で言う  
+  - 1日だけは **premier**（/pʁə.mje/）を使う
+
+例：
+- 1日：**le premier janvier**（

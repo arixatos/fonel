@@ -1,0 +1,190 @@
+# 第X章　命令とその周辺構文
+
+## 1. モダリティ構文（〜できる・〜したい・〜すべき）
+
+### 1.1 モダリティとは
+
+モダリティとは、話し手の判断・意志・可能性・義務などを表現するための構文である。  
+フランス語では、以下のような「モダリティ動詞」を用いることでこれを表す：
+
+- **pouvoir**（〜できる／可能・許可）  
+- **vouloir**（〜したい／意志）  
+- **devoir**（〜すべき／義務）  
+- **savoir**（〜の方法を知っている）
+
+### 1.2 構文
+
+主語 ＋ モダリティ動詞（活用形） ＋ 動詞の不定詞
+
+例：  
+- Je peux venir.（私は来ることができる）  
+- Tu veux partir ?（君は出発したいの？）  
+- Il doit finir ce travail.（彼はこの仕事を終えなければならない）
+
+### 1.3 練習問題（○×）
+
+以下の文がモダリティ構文として正しいかどうか、○か×で答えなさい。
+
+1. Je peux nage.  
+2. Tu veux manger une glace ?  
+3. Il doit partons maintenant.
+
+<details><summary>解答</summary>
+
+1. ×（不定詞は「nager」）  
+2. ○  
+3. ×（不定詞は「partir」）
+
+</details>
+
+---
+
+## 2. 使役構文（〜させる）
+
+### 2.1 faire ＋ 不定詞構文
+
+フランス語では「〜させる」「〜してもらう」を faire ＋ 不定詞で表現する。
+
+例：  
+- Je fais réparer ma voiture.（私は車を修理してもらう）  
+- Elle fait travailler les élèves.（彼女は生徒たちに働かせる）
+
+動作主が明示される場合：  
+- Il fait venir un technicien.（彼は技術者を呼ばせる）
+
+### 2.2 間接受け身（faire ＋ 不定詞）
+
+「〜してもらう」という意味も同じ構文で表す。
+
+- Je fais couper mes cheveux.（私は髪を切ってもらう）
+
+### 2.3 練習問題（穴埋め）
+
+括弧内の語を適切な形にして、使役文を完成させなさい。
+
+1. Elle fait (nettoyer) ______ sa robe.  
+2. Nous faisons (venir) ______ le plombier.  
+3. Je fais (manger) ______ les enfants.
+
+<details><summary>解答</summary>
+
+1. nettoyer  
+2. venir  
+3. manger
+
+</details>
+
+---
+
+## 3. 命令文（〜しなさい／〜しよう）
+
+### 3.1 構文と語順
+
+| 対象 | 命令形 | 例文 |  
+|------|--------|------|  
+| tu   | 動詞の tu形から -s を取る（ただし例外あり） | Parle !（話して） |  
+| nous | nous形 | Parlons !（話そう） |  
+| vous | vous形 | Parlez !（話してください） |
+
+否定命令では：  
+Ne ＋ 動詞の命令形 ＋ pas
+
+例：  
+- Ne parle pas !（話すな！）
+
+### 3.2 代名詞の位置
+
+命令文に代名詞目的語がある場合、語順が肯定・否定で異なる。
+
+- 肯定命令：動詞の後にハイフンでつなぐ  
+  例：Donne-le !（それを渡して！）  
+- 否定命令：代名詞は動詞の前に置く  
+  例：Ne me le donne pas.（それを私に渡すな！）
+
+### 3.3 不規則な命令形
+
+以下の動詞は命令形が不規則になる。  
+- être：sois (tu), soyons (nous), soyez (vous)  
+- avoir：aie (tu), ayons (nous), ayez (vous)  
+- savoir：sache (tu), sachons (nous), sachez (vous)  
+- vouloir：veuille (tu), veuillons (nous), veuillez (vous)
+
+### 3.4 練習問題（選択）
+
+次の命令文のうち正しいものを選びなさい。
+
+a. Mangez pas !  
+b. Ne parle pas !  
+c. Nous parlons !
+
+<details><summary>解答</summary>
+
+正解：b  
+（aは否定の語順誤り、cは命令形ではなく現在形）
+
+</details>
+
+---
+
+## 4. 禁止表現（〜してはいけない）
+
+禁止を表すには、命令文の否定形を使う。
+
+例：  
+- Ne fume pas ici.（ここでタバコを吸ってはいけません）  
+- Ne sortez pas sans moi.（私なしで出ないでください）
+
+特に tu に対して強く言う場合は語気が強くなるため、丁寧な vous 形を使うこともある。
+
+---
+
+## 5. 勧誘表現（〜しよう／〜しませんか）
+
+### 5.1 nous を使った提案
+
+- Allons-y !（さあ行こう）  
+- Mangeons ensemble !（一緒に食べよう）  
+- Ne nous dépêchons pas.（急がなくていいよ）
+
+### 5.2 on を使ったやわらかい提案
+
+口語的・柔らかい勧誘には on を使う。
+
+- On y va ?（行こうか？）  
+- On mange ici ?（ここで食べる？）
+
+---
+
+## 6. 総合練習
+
+### 6.1 仏文和訳
+
+1. Faites attention.  
+2. Tu dois finir ton devoir.  
+3. Je veux partir maintenant.  
+4. Ne t’inquiète pas.  
+5. On prend un café ?
+
+<details><summary>解答例</summary>
+
+1. 気をつけてください。  
+2. 君は宿題を終えなければならない。  
+3. 私は今出発したい。  
+4. 心配しないで。  
+5. コーヒーでも飲む？
+
+</details>
+
+---
+
+## 7. まとめ
+
+| 表現 | 用法 | 例文 |  
+|------|------|------|  
+| モダリティ構文 | 能力・意志・義務などを表す | Je peux parler.（私は話せる） |  
+| 使役構文 | 人に〜させる／〜してもらう | Je fais réparer ma voiture. |  
+| 命令文 | 指示・命令・提案 | Parle ! / Allons-y ! |  
+| 禁止表現 | 否定の命令 | Ne fume pas ! |  
+| 勧誘表現 | 一緒に〜しよう（やわらかい提案） | On y va ? |
+
+これらの構文は日常会話でも頻繁に使われるため、活用や語順に注意して慣れておくことが重要である。
