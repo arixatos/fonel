@@ -1,4 +1,3 @@
-// ipa-tool.js
 function convert() {
   let ipa = document.getElementById('ipaInput').value;
 
@@ -12,9 +11,18 @@ function convert() {
     ['ŋ', 'ng'], ['j', 'i'], ['w', 'ú'], ['ɡ', 'g']
   ];
 
-  for (const [from, to] of rules) {
-    ipa = ipa.split(from).join(to);
+  // ステップ1：すべての変換対象を一時マーカーに退避
+  for (const [from, _] of rules) {
+    const marker = `__${from.replace(/[^a-z0-9]/gi, '_')}__`;
+    ipa = ipa.split(from).join(marker);
   }
 
+  // ステップ2：マーカーを使って変換（衝突を避ける）
+  for (const [from, to] of rules) {
+    const marker = `__${from.replace(/[^a-z0-9]/gi, '_')}__`;
+    ipa = ipa.split(marker).join(to);
+  }
+
+  // ステップ3：結果表示
   document.getElementById('output').innerText = `フォネル表記：\n${ipa}`;
 }
