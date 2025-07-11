@@ -1,12 +1,23 @@
-<textarea id="ipaInput" rows="6" cols="40">/kɑ̃/ /kɔ̃.b‿jɛ̃/</textarea><br>
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <title>IPA変換テスト</title>
+</head>
+<body>
+
+<h3>IPA入力：</h3>
+<textarea id="ipaInput" rows="5" cols="50">/kɑ̃/ /kɔ̃.b‿jɛ̃/ /dʒi/</textarea><br>
 <button onclick="convert()">変換</button>
+
+<h3>フォネル表記：</h3>
 <pre id="output"></pre>
 
 <script>
 function convert() {
   let ipa = document.getElementById('ipaInput').value;
 
-  // 結合文字を含む複合文字を扱うため、配列化（スプレッド＋正規化）
+  // NFC正規化して、スプレッド構文で結合文字も個別処理できるようにする
   const chars = [...ipa.normalize('NFC')];
   let result = '';
   let i = 0;
@@ -22,16 +33,17 @@ function convert() {
   ];
 
   // 長い順にソート（最長一致）
-  rules.sort((a, b) => b[0].length - a[0].length);
+  rules.sort((a, b) => [...b[0]].length - [...a[0]].length);
 
   while (i < chars.length) {
     let matched = false;
 
     for (const [from, to] of rules) {
-      const slice = chars.slice(i, i + [...from].length).join('');
+      const fromChars = [...from];
+      const slice = chars.slice(i, i + fromChars.length).join('');
       if (slice === from) {
         result += to;
-        i += [...from].length;
+        i += fromChars.length;
         matched = true;
         break;
       }
@@ -43,6 +55,9 @@ function convert() {
     }
   }
 
-  document.getElementById('output').innerText = `フォネル表記：\n${result}`;
+  document.getElementById('output').innerText = result;
 }
 </script>
+
+</body>
+</html>
