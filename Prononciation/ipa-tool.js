@@ -1,10 +1,16 @@
+<textarea id="ipaInput" rows="6" cols="40">/kɑ̃/ /kɔ̃.b‿jɛ̃/</textarea><br>
+<button onclick="convert()">変換</button>
+<pre id="output"></pre>
+
+<script>
 function convert() {
   let ipa = document.getElementById('ipaInput').value;
 
-  // マーカーとして使用する記号を事前除去
-  ipa = ipa.replace(/‹‹|››/g, '');
+  // 結合文字を含む複合文字を扱うため、配列化（スプレッド＋正規化）
+  const chars = [...ipa.normalize('NFC')];
+  let result = '';
+  let i = 0;
 
-  // 変換ルール（長いもの優先）
   const rules = [
     ['t͡s', 'tz'], ['d͡z', 'dz'], ['tʃ', 'tĉ'], ['dʒ', 'dj'],
     ['œ̃', 'ũ'], ['ɑ̃', 'ã'], ['ɛ̃', 'ẽ'], ['ɔ̃', 'õ'],
@@ -15,22 +21,28 @@ function convert() {
     ['ŋ', 'ng'], ['j', 'i'], ['w', 'ú'], ['ɡ', 'g']
   ];
 
-  // 正規化：結合文字を分解しないよう NFC のまま扱う
-  ipa = ipa.normalize('NFC');
+  // 長い順にソート（最長一致）
+  rules.sort((a, b) => b[0].length - a[0].length);
 
-  // ステップ1：退避（‹‹...››で囲う）
-  for (const [from, _] of rules) {
-    const escaped = from.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&'); // 正規表現エスケープ
-    const pattern = new RegExp(escaped, 'gu'); // Unicodeモードで一致
-    ipa = ipa.replace(pattern, `‹‹${from}››`);
+  while (i < chars.length) {
+    let matched = false;
+
+    for (const [from, to] of rules) {
+      const slice = chars.slice(i, i + [...from].length).join('');
+      if (slice === from) {
+        result += to;
+        i += [...from].length;
+        matched = true;
+        break;
+      }
+    }
+
+    if (!matched) {
+      result += chars[i];
+      i++;
+    }
   }
 
-  // ステップ2：マーカーを変換先に
-  for (const [from, to] of rules) {
-    const marker = `‹‹${from}››`;
-    ipa = ipa.split(marker).join(to);
-  }
-
-  // 出力
-  document.getElementById('output').innerText = `フォネル表記：\n${ipa}`;
+  document.getElementById('output').innerText = `フォネル表記：\n${result}`;
 }
+</script>
