@@ -1,27 +1,11 @@
-<!DOCTYPE html>
-<html lang="ja">
-<head>
-  <meta charset="UTF-8">
-  <title>IPA変換テスト</title>
-</head>
-<body>
-
-<h3>IPA入力：</h3>
-<textarea id="ipaInput" rows="5" cols="50">/kɑ̃/ /kɔ̃.b‿jɛ̃/ /dʒi/</textarea><br>
-<button onclick="convert()">変換</button>
-
-<h3>フォネル表記：</h3>
-<pre id="output"></pre>
-
-<script>
 function convert() {
   let ipa = document.getElementById('ipaInput').value;
-
-  // NFC正規化して、スプレッド構文で結合文字も個別処理できるようにする
-  const chars = [...ipa.normalize('NFC')];
+  ipa = ipa.normalize('NFC');
+  const chars = [...ipa];
   let result = '';
   let i = 0;
 
+  // ルール（長い順にソート済み）
   const rules = [
     ['t͡s', 'tz'], ['d͡z', 'dz'], ['tʃ', 'tĉ'], ['dʒ', 'dj'],
     ['œ̃', 'ũ'], ['ɑ̃', 'ã'], ['ɛ̃', 'ẽ'], ['ɔ̃', 'õ'],
@@ -32,7 +16,7 @@ function convert() {
     ['ŋ', 'ng'], ['j', 'i'], ['w', 'ú'], ['ɡ', 'g']
   ];
 
-  // 長い順にソート（最長一致）
+  // 長いfromから優先的にチェック
   rules.sort((a, b) => [...b[0]].length - [...a[0]].length);
 
   while (i < chars.length) {
@@ -57,7 +41,3 @@ function convert() {
 
   document.getElementById('output').innerText = result;
 }
-</script>
-
-</body>
-</html>
