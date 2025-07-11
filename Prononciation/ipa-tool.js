@@ -1,10 +1,10 @@
 function convert() {
   let ipa = document.getElementById('ipaInput').value;
 
-  // ステップ0：マーカー文字をあらかじめ削除しておく
-  ipa = ipa.replace(/‹‹|››/g, '');
+  // ステップ0：マーカー文字削除 + 正規化（NFC）
+  ipa = ipa.replace(/‹‹|››/g, '').normalize('NFC');
 
-  // 変換ルール
+  // 変換ルール（順序：長い音素 → 短い音素）
   const rules = [
     ['t͡s', 'tz'], ['d͡z', 'dz'], ['tʃ', 'tĉ'], ['dʒ', 'dj'],
     ['œ̃', 'ũ'], ['ɑ̃', 'ã'], ['ɛ̃', 'ẽ'], ['ɔ̃', 'õ'],
@@ -15,16 +15,19 @@ function convert() {
     ['ŋ', 'ng'], ['j', 'i'], ['w', 'ú'], ['ɡ', 'g']
   ];
 
-  // ステップ1：変換元をマーカーに退避
+  // ステップ1：マーカー退避
   for (const [from, _] of rules) {
-    ipa = ipa.split(from).join(`‹‹${from}››`);
+    const pattern = from.normalize('NFC');
+    const marker = `‹‹${pattern}››`;
+    ipa = ipa.split(pattern).join(marker);
   }
 
-  // ステップ2：マーカーを変換先に置換
+  // ステップ2：to に置換
   for (const [from, to] of rules) {
-    ipa = ipa.split(`‹‹${from}››`).join(to);
+    const pattern = from.normalize('NFC');
+    const marker = `‹‹${pattern}››`;
+    ipa = ipa.split(marker).join(to);
   }
 
-  // 出力
   document.getElementById('output').innerText = `フォネル表記：\n${ipa}`;
 }
