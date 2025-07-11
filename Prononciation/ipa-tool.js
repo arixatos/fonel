@@ -1,10 +1,10 @@
 function convert() {
   let ipa = document.getElementById('ipaInput').value;
 
-  // マーカーに使う文字を事前削除
+  // マーカーとして使用する記号を事前除去
   ipa = ipa.replace(/‹‹|››/g, '');
 
-  // 音素置換ルール（長い音素から順に）
+  // 変換ルール（長いもの優先）
   const rules = [
     ['t͡s', 'tz'], ['d͡z', 'dz'], ['tʃ', 'tĉ'], ['dʒ', 'dj'],
     ['œ̃', 'ũ'], ['ɑ̃', 'ã'], ['ɛ̃', 'ẽ'], ['ɔ̃', 'õ'],
@@ -15,17 +15,22 @@ function convert() {
     ['ŋ', 'ng'], ['j', 'i'], ['w', 'ú'], ['ɡ', 'g']
   ];
 
-  // ステップ1：すべての from を ‹‹...›› に退避（正規表現で）
+  // 正規化：結合文字を分解しないよう NFC のまま扱う
+  ipa = ipa.normalize('NFC');
+
+  // ステップ1：退避（‹‹...››で囲う）
   for (const [from, _] of rules) {
-    const re = new RegExp(from.normalize('NFC'), 'g');
-    ipa = ipa.replace(re, `‹‹${from}››`);
+    const escaped = from.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&'); // 正規表現エスケープ
+    const pattern = new RegExp(escaped, 'gu'); // Unicodeモードで一致
+    ipa = ipa.replace(pattern, `‹‹${from}››`);
   }
 
-  // ステップ2：‹‹...›› を to に変換
+  // ステップ2：マーカーを変換先に
   for (const [from, to] of rules) {
     const marker = `‹‹${from}››`;
     ipa = ipa.split(marker).join(to);
   }
 
+  // 出力
   document.getElementById('output').innerText = `フォネル表記：\n${ipa}`;
 }
