@@ -43,7 +43,7 @@ Fonel語における **「-er型動詞」** は、フランス語の第1群に�
 |          |              |              | vúz  | -z        | parlraz        | /paʁlʁaz/      | parlerez     | /paʁlʁe‿z/                  |
 |          |              |              | éluz | -t        | parlrat        | /paʁlʁat/      | parleront    | /paʁlʁɔ̃‿t/                 |
 | 現在分詞 | G1(parl)     |              | -    | -ã        | parlã          | /paʁlã/        | parlant      | /paʁlɑ̃/                    |
-| 過去分詞 | G1(parl)     | T3(é)        | -    | -         | parlé          | /paʁle/        | parlé        | /paʁle/                     |
+| 過去分詞 | G1(parl)     |              | -    | -é        | parlé          | /paʁle/        | parlé        | /paʁle/                     |
 | 不定詞   | G1(parl)     |              | -    | -ér       | parlér         | /paʁleʁ/       | parler       | /paʁle/                     |
 
 ---
