@@ -1,0 +1,93 @@
+# 動詞 aller の説明 （3幹動詞）
+
+---
+
+## 1. 概要
+
+動詞 **aller** はフランス語で「行く」を意味する代表的な動詞ですが、  
+実際には次の3つの別々の -er 動詞が場面によって使い分けられています。
+
+---
+
+## 2. 構成動詞と使用場面
+
+| 不定詞形 | 使用場面                                 |
+|----------|------------------------------------------|
+| **vaer** | 単数の現在形（je vais, tu vas）、tuの命令形（va !）       |
+| **aller**| 複数の現在形（nous allons, ils vont）、半過去、接続法など |
+| **irer** | 未来形（j’irai）、条件法（j’irais）、近未来構文（je vais aller） |
+
+---
+
+## 3. 活用形一覧（仮想-er活用形と仏語実態の発音比較）
+
+| 文法条件           | 使用動詞 | 使用動詞活用形 | 使用動詞活用形IPA | 仏語活用形 | 仏語活用形IPA | 発音一致率 | コメント                                |
+|--------------------|----------|----------------|-------------------|------------|---------------|------------|-----------------------------------------|
+| je + 現在          | vaer     | vae            | /v?e/ → /v?/      | vais       | /v?z/         | 90%        | 語尾eは脱落、sは有声音化でやや差異あり   |
+| tu + 現在          | vaer     | va?s           | /v??s/ → /v?s/    | vas        | /vas/         | 85%        | 語幹母音伸長＋sの有無で差異              |
+| il/elle/on + 現在  | vaer     | vae            | /v?e/ → /v?/      | va         | /va/          | 70%        | 語幹母音が異なる                         |
+| nous + 現在        | aller    | alle??         | /al?e??/→/al???/  | allons     | /al??z/       | 75%        | 母音が違い、語尾鼻化母音は類似             |
+| vous + 現在        | aller    | allee          | /al?e/            | allez      | /alez/        | 70%        | 母音・子音差異あり                       |
+| ils/elles + 現在   | aller    | alle??         | /al?e??/→/al???/  | vont       | /v??/         | 40%        | 語幹・鼻母音異なる                       |
+
+| je + 半過去        | aller    | alliae         | /al?i?/→/al??/    | allais     | /al?z/        | 80%        | 語尾差異、母音伸長                       |
+| tu + 半過去        | aller    | alliae?s       | /al?i??s/→/al??s/ | allais     | /al?z/        | 80%        | 同上                                   |
+| il/elle/on + 半過去| aller    | allia?         | /al?i?/→/al??/    | allait     | /al?t/        | 75%        | tとの子音差異                           |
+| nous + 半過去      | aller    | allio?         | /al???/           | allions    | /alj??z/      | 70%        | /j/音が仮想にない                       |
+| vous + 半過去      | aller    | allee          | /al?e/            | alliez     | /aljez/       | 60%        | /j/音欠如                             |
+| ils/elles + 半過去 | aller    | allia?         | /al?i?/→/al??/    | allaient   | /al?t/        | 75%        | 同上                                   |
+
+| je + 単純過去      | aller    | alle?          | /al??/            | allai      | /al?/         | 85%        | 母音長さの差                            |
+| tu + 単純過去      | aller    | alleas         | /al?as/           | allas      | /alas/        | 80%        | 母音違い                              |
+| il/elle/on + 単純過去| aller  | allea          | /al?a/            | alla       | /ala/         | 80%        | 同上                                   |
+| nous + 単純過去    | aller    | alleam         | /al?am/           | all?mes    | /al?m/        | 75%        | 母音差異あり                          |
+| vous + 単純過去    | aller    | alleat         | /al?at/           | all?tes    | /al?t/        | 75%        | 同上                                   |
+| ils/elles + 単純過去| aller   | alle??         | /al???/           | all?rent   | /al??/        | 90%        | 比較的近い                            |
+
+| je + 未来形        | irer     | ire            | /i??e/ → /i??/    | irai       | /i??/         | 95%        | 仮想活用語尾軽微差                      |
+| tu + 未来形        | irer     | ires           | /i???s/ → /i??s/  | iras       | /i?as/        | 85%        | s音差異                              |
+| il/elle/on + 未来形| irer     | ire            | /i??e/ → /i??/    | ira        | /i?a/         | 70%        | 母音差異                              |
+| nous + 未来形      | irer     | iro?           | /i????/           | irons      | /i???z/       | 80%        | 子音欠如                              |
+| vous + 未来形      | irer     | ire            | /i??e/            | irez       | /i?ez/        | 75%        | 子音欠如                              |
+| ils/elles + 未来形 | irer     | iro?           | /i????/           | iront      | /i???t/       | 75%        | 子音欠如                              |
+
+| je + 条件法        | irer     | ire?z          | /i??e?z/          | irais      | /i??z/        | 80%        | 仮想母音伸長                          |
+| tu + 条件法        | irer     | ire?z          | /i??e?z/          | irais      | /i??z/        | 80%        | 同上                                   |
+| il/elle/on + 条件法| irer     | ire?t          | /i??e?t/          | irait      | /i??t/        | 80%        | 同上                                   |
+| nous + 条件法      | irer     | irjo?          | /i??j??/          | irions     | /i?j??z/      | 85%        | 語尾子音欠如                          |
+| vous + 条件法      | irer     | irjez          | /i??jez/          | iriez      | /i?jez/       | 100%       | 一致                                   |
+| ils/elles + 条件法 | irer     | ire?t          | /i??e?t/          | iraient    | /i??t/        | 80%        | 同上                                   |
+
+| que je + 接続法現在 | vaer     | aille          | /aj/              | aille      | /aj/          | 100%       | 同一                                  |
+| que tu + 接続法現在 | vaer     | ailles         | /aj/              | ailles     | /aj/          | 100%       | 同一                                  |
+| qu’il/elle/on + 接続法現在 | vaer | aille         | /aj/              | aille      | /aj/          | 100%       | 同一                                  |
+| que nous + 接続法現在 | aller   | allions        | /al?j??/          | allions    | /alj??z/      | 85%        | /j/音母音で差異あり                    |
+| que vous + 接続法現在 | aller   | alliez         | /al?jez/          | alliez     | /aljez/       | 90%        | 微差異                                |
+| qu’ils/elles + 接続法現在 | vaer   | aillent        | /aj/              | aillent    | /aj/          | 100%       | 同一                                  |
+
+| (tu) + 命令形       | vaer     | va             | /v?a/             | va         | /va/          | 75%        | 母音違い                              |
+| (nous) + 命令形     | aller    | alle??         | /al???/           | allons     | /al??z/       | 75%        | 母音・子音差異あり                     |
+| (vous) + 命令形     | aller    | allee          | /al?e/            | allez      | /alez/        | 70%        | 同上                                   |
+
+| 用法               | 使用動詞 | 使用動詞形態    | 使用動詞形態IPA    | 仏語形態    | 仏語形態IPA   | 発音一致率 | コメント                            |
+|--------------------|----------|----------------|-------------------|------------|---------------|------------|-------------------------------------|
+| 不定詞             | aller    | aller          | /al?e/            | aller      | /ale/         | 70%        | 語尾母音差異                      |
+| 過去分詞           | aller    | all?           | /al?e/            | all?       | /ale/         | 70%        | 同上                             |
+| 過去分詞f          | aller    | all?e          | /al?e/            | all?e      | /ale/         | 70%        | 同上                             |
+| 過去分詞p          | aller    | all?s          | /al?ez/           | all?s      | /alez/        | 75%        | 同上                             |
+| 現在分詞           | aller    | allant         | /al??/            | allant     | /al??t/       | 90%        | tの有無差異                      |
+
+---
+
+### コメント
+
+- 使用動詞活用形は、**仮想-er動詞の規則で「aller」の語幹発音 /al?/ を基に活用したIPA**であり、  
+  フランス語実際の発音とは語幹母音や語尾の子音で差異が多く、完全一致はありません。  
+- 特に「ils/elles + 現在形」などは語幹も母音も大きく異なり、発音一致率が低くなります。  
+- 未来・条件法の「irer」活用はフランス語とほぼ同様のIPAとしました。  
+- この表は、**フォネル語での活用語形作成にあたり、発音差異を評価し選択の参考にするためのものです。**
+
+---
+
+以上、仮想-er動詞規則による「aller」3幹活用形IPA表でした。  
+もし調整や追加が必要ならお知らせください。  
