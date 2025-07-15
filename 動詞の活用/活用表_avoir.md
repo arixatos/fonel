@@ -1,5 +1,5 @@
 ---
-title: -er規則動詞（第1群動詞）
+title: avér（avúar）（不規則動詞）
 layout: default
 parent: 動詞の活用
 nav_order:   400

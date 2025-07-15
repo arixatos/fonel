@@ -1,13 +1,9 @@
 ---
-title: -er規則動詞（第1群動詞）
+title: venir（不規則動詞）
 layout: default
 parent: 動詞の活用
 nav_order:   500
 ---
-
-
-
-
 
 ## 5. 不規則動詞例: venir
 
