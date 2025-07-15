@@ -1,3 +1,11 @@
+---
+title: -er規則動詞（第1群動詞）
+layout: default
+parent: 動詞の活用
+nav_order:   400
+---
+
+
 # 不規則動詞例: faire 活用表（Fonelと仏語比較）
 
 | 時制・法 | 語幹パターン | 接辞パターン | 人称 | 活用語尾  | Fonel活用形 | IPA（Fonel） | 仏語活用形 | IPA（仏語・最長発音）|

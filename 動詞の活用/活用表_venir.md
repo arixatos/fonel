@@ -1,3 +1,14 @@
+---
+title: -er規則動詞（第1群動詞）
+layout: default
+parent: 動詞の活用
+nav_order:   500
+---
+
+
+
+
+
 ## 5. 不規則動詞例: venir
 
 | 時制・法       | 語幹パターン | 接辞パターン   | 人称   | 活用語尾   | Fonel活用形    | IPA         | 仏語形       | IPA（仏語・最長発音）|

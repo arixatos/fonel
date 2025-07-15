@@ -1,3 +1,10 @@
+---
+title: -iser規則動詞（第2群動詞）
+layout: default
+parent: 動詞の活用
+nav_order:   200
+---
+
 ## -iser規則動詞（第2群動詞）
 
 以下は-iser型（仏語-ir型）の規則動詞である** finisér **の活用を示したものです。

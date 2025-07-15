@@ -1,3 +1,12 @@
+---
+title: -er規則動詞（第1群動詞）
+layout: default
+parent: 動詞の活用
+nav_order:   200
+---
+
+
+
 ## -er規則動詞（第1群動詞）
 
 以下は-er型（仏語-er型）の規則動詞である** parlér **の活用を示したものです。
