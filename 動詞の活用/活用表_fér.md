@@ -38,28 +38,28 @@ Fonel語では、語幹の交替はあるものの、語尾の付け方は人称
 ## 不規則動詞例: fér 活用表
 
 | 時制・法 | 語幹パターン | 接辞パターン | 人称 | 活用語尾  | Fonel活用形 | IPA（Fonel） | 仏語形    | IPA（仏語・最長発音） |
-|----------|--------------|--------------|------|-----------|-------------|--------------|-----------|------------------------|
-| 現在形   | G1(fè)       | T1(なし)     | jë   | -ø        | fè          | /fɛ/         | fais      | /fɛ/                   |
-|          |              |              | tü   | -z        | fèz         | /fɛz/        | fais      | /fɛ/                   |
-|          |              |              | él   | -t        | fèt         | /fɛt/        | fait      | /fɛ/                   |
-|          |              |              | núz  | -õ        | fèõ         | /fɛɔ̃/       | faisons   | /fə.z‿ɔ̃/              |
-|          |              |              | vúz  | -z        | fèz         | /fɛz/        | faites    | /fɛt‿z/                |
-|          |              |              | éluz | -t        | fèt         | /fɛt/        | font      | /fɔ̃/                  |
-| 半過去   | G2(fèz)      | T2(è)        | jë   | -ø        | fèzè        | /fɛzɛ/       | faisais   | /fɛ.z‿ɛ/               |
-|          |              |              | tü   | -z        | fèzèz       | /fɛzɛz/      | faisais   | /fɛ.z‿ɛ/               |
-|          |              |              | él   | -t        | fèzèt       | /fɛzɛt/      | faisait   | /fɛ.z‿ɛ/               |
-|          |              |              | núz  | -õ        | fèzèõ       | /fɛzɛɔ̃/     | faisions  | /fɛ.z‿jɔ̃/             |
-|          |              |              | vúz  | -z        | fèzèz       | /fɛzɛz/      | faisiez   | /fɛ.z‿je/              |
-|          |              |              | éluz | -t        | fèzèt       | /fɛzɛt/      | faisaient | /fɛ.z‿ɛ/               |
-| 未来形   | G3(fë)       | T3(ra)       | jë   | -ø        | fëra        | /fəʁa/       | ferai     | /fə.ʁe/                |
-|          |              |              | tü   | -z        | fëraz       | /fəʁaz/      | feras     | /fə.ʁa‿z/              |
-|          |              |              | él   | -t        | fërat       | /fəʁat/      | fera      | /fə.ʁa/                |
-|          |              |              | núz  | -õ        | fëraõ       | /fəʁaɔ̃/     | ferons    | /fə.ʁɔ̃/               |
-|          |              |              | vúz  | -z        | fëraz       | /fəʁaz/      | ferez     | /fə.ʁe‿z/              |
-|          |              |              | éluz | -t        | fërat       | /fəʁat/      | feront    | /fə.ʁɔ̃‿t/             |
-| 現在分詞 | G2(fèz)      |              | -    | -ã        | fèzã        | /fɛzã/       | faisant   | /fɛ.zɑ̃/               |
-| 過去分詞 | G4(f)        | T2(è)        | -    | -         | fè          | /fɛ/         | fait      | /fɛ/                   |
-| 不定詞   | G4(f)        |              | -    | -ér       | fér         | /feʁ/        | faire     | /fɛʁ/                  |
+|----------|--------------|--------------|------|-----------|-------------|--------------|-----------|-----------------------|
+| 現在形   | G1(fè)       | T1(なし)     | jë   | -ø        | fè          | /fɛ/         | fais      | /fɛ/                  |
+|          |              |              | tü   | -ø        | fè          | /fɛ/         | fais      | /fɛ/                  |
+|          |              |              | él   | -t        | fèt         | /fɛt/        | fait      | /fɛ/                  |
+|          |              |              | núz  | -õ        | fèõ         | /fɛɔ̃/       | faisons   | /fə.z‿ɔ̃/             |
+|          |              |              | vúz  | -z        | fèz         | /fɛz/        | faites    | /fɛt/                 |
+|          |              |              | éluz | -t        | fèt         | /fɛt/        | font      | /fɔ̃/                 |
+| 半過去   | G2(fèz)      | T2(è)        | jë   | -ø        | fèzè        | /fɛzɛ/       | faisais   | /fɛ.z‿ɛ/              |
+|          |              |              | tü   | -ø        | fèzè        | /fɛzɛ/       | faisais   | /fɛ.z‿ɛ/              |
+|          |              |              | él   | -t        | fèzèt       | /fɛzɛt/      | faisait   | /fɛ.z‿ɛ/              |
+|          |              |              | núz  | -õ        | fèzèõ       | /fɛzɛɔ̃/     | faisions  | /fɛ.z‿jɔ̃/            |
+|          |              |              | vúz  | -z        | fèzèz       | /fɛzɛz/      | faisiez   | /fɛ.z‿je/             |
+|          |              |              | éluz | -t        | fèzèt       | /fɛzɛt/      | faisaient | /fɛ.z‿ɛ/              |
+| 未来形   | G3(fë)       | T3(ra)       | jë   | -ø        | fëra        | /fəʁa/       | ferai     | /fə.ʁe/               |
+|          |              |              | tü   | -ø        | fëra        | /fəʁa/       | feras     | /fə.ʁa/               |
+|          |              |              | él   | -t        | fërat       | /fəʁat/      | fera      | /fə.ʁa/               |
+|          |              |              | núz  | -õ        | fëraõ       | /fəʁaɔ̃/     | ferons    | /fə.ʁɔ̃/              |
+|          |              |              | vúz  | -z        | fëraz       | /fəʁaz/      | ferez     | /fə.ʁe‿z/             |
+|          |              |              | éluz | -t        | fërat       | /fəʁat/      | feront    | /fə.ʁɔ̃‿t/            |
+| 現在分詞 | G2(fèz)      |              | -    | -ã        | fèzã        | /fɛzã/       | faisant   | /fɛ.zɑ̃/              |
+| 過去分詞 | G4(f)        | T2(è)        | -    | -         | fè          | /fɛ/         | fait      | /fɛ/                  |
+| 不定詞   | G4(f)        |              | -    | -ér       | fér         | /feʁ/        | faire     | /fɛʁ/                 |
 
 ---
 

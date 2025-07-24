@@ -90,19 +90,19 @@ Fonel語の活用は規則的に語尾を付ける一方で、語幹の切り替
 | 時制・法 | 語幹パターン | 接辞パターン | 人称 | 活用語尾  | Fonel活用形 | IPA（Fonel） | 仏語形    | IPA (仏語・最長発音) |
 |----------|--------------|--------------|------|-----------|-------------|--------------|-----------|----------------------|
 | 現在形   | G1(sè)       | T1(なし)     | jë   | -ø        | sè          | /sɛ/         | suis      | /sɥi/                |
-|          |              |              | tü   | -z        | sèz         | /sɛz/        | es        | /ɛ‿z/                |
+|          |              |              | tü   | -ø        | sè          | /sɛ/         | es        | /ɛ‿z/                |
 |          |              |              | él   | -t        | sèt         | /sɛt/        | est       | /ɛ‿t/                |
 |          |              |              | núz  | -õ        | sèõ         | /sɔ̃/        | sommes    | /sɔm/                |
-|          |              |              | vúz  | -z        | sèz         | /sɛz/        | êtes      | /ɛt/ → /ɛ‿t/        |
+|          |              |              | vúz  | -z        | sèz         | /sɛz/        | êtes      | /ɛt/                 |
 |          |              |              | éluz | -t        | sòn         | /sɔ̃/        | sont      | /sɔ̃‿t/              |
 | 半過去   | G2(ét)       | T1(è)        | jë   | -ø        | etè         | /etɛ/        | étais     | /etɛ/                |
-|          |              |              | tü   | -z        | etèz        | /etɛz/       | étais     | /etɛ‿z/              |
+|          |              |              | tü   | -ø        | etè         | /etɛ/        | étais     | /etɛ‿z/              |
 |          |              |              | él   | -t        | etèt        | /etɛt/       | était     | /etɛ‿t/              |
 |          |              |              | núz  | -õ        | etèõ        | /etɛɔ̃/      | étions    | /etjɔ̃/              |
-|          |              |              | vúz  | -z        | etèz        | /etɛz/       | étiez     | /etje/               |※zはリエゾンしない
+|          |              |              | vúz  | -z        | etèz        | /etɛz/       | étiez     | /etje/               |
 |          |              |              | éluz | -t        | etèt        | /etɛt/       | étaient   | /etɛ‿t/              |
 | 未来形   | G3(së)       | T2(ra)       | jë   | -ø        | sëra        | /səʁa/       | serai     | /səʁe/               |
-|          |              |              | tü   | -z        | sëraz       | /səʁaz/      | seras     | /səʁa‿z/             |
+|          |              |              | tü   | -ø        | sëra        | /səʁa/       | seras     | /səʁa‿z/             |
 |          |              |              | él   | -t        | sërat       | /səʁat/      | sera      | /səʁa‿t/             |
 |          |              |              | núz  | -õ        | sëraõ       | /səʁaɔ̃/     | serons    | /səʁɔ̃/              |
 |          |              |              | vúz  | -z        | sëraz       | /səʁaz/      | serez     | /səʁe/ → /səʁ‿z/    |

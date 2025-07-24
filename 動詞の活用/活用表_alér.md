@@ -19,29 +19,29 @@ Fonel語では語幹の変化を明示的に表現し、発音されない仏語
 
 ### aller 活用表（Fonel語と仏語の比較）
 
-| 時制・法 | 語幹パターン | 接辞パターン | 人称 | 活用語尾  | Fonel活用形    | IPA（Fonel）   | 仏語形     | IPA（仏語・最長発音）       |
-|----------|--------------|--------------|------|-----------|----------------|----------------|------------|-----------------------------|
-| 現在形   | G1(al)       | T1(なし)     | jë   | -ø        | al             | /al/           | vais       | /vɛ/                        |
-|          |              |              | tü   | -z        | alz            | /alz/          | vas        | /va‿z/                      |
-|          |              |              | él   | -t        | alt            | /alt/          | va         | /va‿t/                      |
-|          |              |              | núz  | -õ        | alõ            | /alɔ̃/         | allons     | /alɔ̃/                      |
-|          |              |              | vúz  | -z        | alz            | /alz/          | allez      | /al‿z/（通常 /ale/）        |
-|          |              |              | éluz | -t        | alt            | /alt/          | vont       | /vɔ̃‿t/                     |
-| 半過去   | G1(al)       | T2(è)        | jë   | -ø        | alè            | /alɛ/          | allais     | /alɛ/                       |
-|          |              |              | tü   | -z        | alèz           | /alɛz/         | allais     | /alɛ‿z/                     |
-|          |              |              | él   | -t        | alèt           | /alɛt/         | allait     | /alɛ‿t/                     |
-|          |              |              | núz  | -õ        | alèõ           | /alɛɔ̃/        | allions    | /aljɔ̃/                     |
-|          |              |              | vúz  | -z        | alèz           | /alɛz/         | alliez     | /aljez/                     |
-|          |              |              | éluz | -t        | alèt           | /alɛt/         | allaient   | /alɛ‿t/                     |
-| 未来形   | G2(ir)       | T3(ra)       | jë   | -ø        | ira            | /iʁa/          | irai       | /iʁɛ/                       |
-|          |              |              | tü   | -z        | iraz           | /iʁaz/         | iras       | /iʁa‿z/                     |
-|          |              |              | él   | -t        | irat           | /iʁat/         | ira        | /iʁa‿t/                     |
-|          |              |              | núz  | -õ        | iraõ           | /iʁaɔ̃/        | irons      | /iʁɔ̃/                      |
-|          |              |              | vúz  | -z        | iraz           | /iʁaz/         | irez       | /iʁ‿z/（通常 /iʁe/）        |
-|          |              |              | éluz | -t        | irat           | /iʁat/         | iront      | /iʁɔ̃‿t/                    |
-| 現在分詞 | G1(al)       |              | -    | -ã        | alã            | /alɑ̃/         | allant     | /alɑ̃/                      |
-| 過去分詞 | G1(al)       | T3(é)        | -    | -         | alé            | /ale/          | allé       | /ale/                       |
-| 不定詞   | G1(al)       |              | -    | -ér       | alér           | /aleʁ/         | aller      | /ale/                       |
+| 時制・法 | 語幹パターン | 接辞パターン | 人称 | 活用語尾  | Fonel活用形    | IPA（Fonel）   | 仏語形     | IPA（仏語・最長発音）|
+|----------|--------------|--------------|------|-----------|----------------|----------------|------------|----------------------|
+| 現在形   | G1(al)       | T1(なし)     | jë   | -ø        | al             | /al/           | vais       | /vɛ/                 |
+|          |              |              | tü   | -ø        | al             | /al/           | vas        | /va/                 |
+|          |              |              | él   | -t        | alt            | /alt/          | va         | /va/                 |
+|          |              |              | núz  | -õ        | alõ            | /alɔ̃/         | allons     | /alɔ̃/               |
+|          |              |              | vúz  | -z        | alz            | /alz/          | allez      | /ale/                |
+|          |              |              | éluz | -t        | alt            | /alt/          | vont       | /vɔ̃/                |
+| 半過去   | G1(al)       | T2(è)        | jë   | -ø        | alè            | /alɛ/          | allais     | /alɛ/                |
+|          |              |              | tü   | -ø        | alè            | /alɛ/          | allais     | /alɛ/                |
+|          |              |              | él   | -t        | alèt           | /alɛt/         | allait     | /alɛ‿t/              |
+|          |              |              | núz  | -õ        | alèõ           | /alɛɔ̃/        | allions    | /aljɔ̃/              |
+|          |              |              | vúz  | -z        | alèz           | /alɛz/         | alliez     | /aljez/              |
+|          |              |              | éluz | -t        | alèt           | /alɛt/         | allaient   | /alɛ‿t/              |
+| 未来形   | G2(ir)       | T3(ra)       | jë   | -ø        | ira            | /iʁa/          | irai       | /iʁɛ/                |
+|          |              |              | tü   | -ø        | ira            | /iʁa/          | iras       | /iʁa/                |
+|          |              |              | él   | -t        | irat           | /iʁat/         | ira        | /iʁa/                |
+|          |              |              | núz  | -õ        | iraõ           | /iʁaɔ̃/        | irons      | /iʁɔ̃/               |
+|          |              |              | vúz  | -z        | iraz           | /iʁaz/         | irez       | /iʁe/                |
+|          |              |              | éluz | -t        | irat           | /iʁat/         | iront      | /iʁɔ̃/               |
+| 現在分詞 | G1(al)       |              | -    | -ã        | alã            | /alɑ̃/         | allant     | /alɑ̃/               |
+| 過去分詞 | G1(al)       | T3(é)        | -    | -         | alé            | /ale/          | allé       | /ale/                |
+| 不定詞   | G1(al)       |              | -    | -ér       | alér           | /aleʁ/         | aller      | /ale/                |
 
 ---
 

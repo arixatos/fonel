@@ -27,19 +27,19 @@ Fonel語における **「-ir型動詞」** は、フランス語で第2群に�
 | 時制・法 | 語幹パターン | 接辞パターン | 人称 | 活用語尾  | Fonel活用形  | IPA（Fonel）   | 仏語形     | IPA（仏語・最長発音）      |
 |----------|--------------|--------------|------|-----------|--------------|----------------|------------|----------------------------|
 | 現在形   | G1(finis)    | T1(なし)     | jë   | -ø        | finis        | /finis/        | finis      | /fini/                     |
-|          |              |              | tü   | -z        | finisz       | /finisz/       | finis      | /fini/                     |
-|          |              |              | él   | -t        | finist       | /finist/       | finit      | /fini/                     |
+|          |              |              | tü   | -ø        | finis        | /finis/        | finis      | /fini/                     |
+|          |              |              | él   | -t        | finist       | /finist/       | finit      | /finit/                    |
 |          |              |              | núz  | -õ        | finisõ       | /finisɔ̃/      | finissons  | /finisɔ̃/                  |
 |          |              |              | vúz  | -z        | finisz       | /finisz/       | finissez   | /finis‿ez/                 |
 |          |              |              | éluz | -t        | finist       | /finist/       | finissent  | /finis/                    |
 | 半過去   | G1(finis)    | T2(è)        | jë   | -ø        | finisè       | /finisɛ/       | finissais  | /finisɛ/                   |
-|          |              |              | tü   | -z        | finisèz      | /finisɛz/      | finissais  | /finisɛ/                   |
+|          |              |              | tü   | -ø        | finisè       | /finisɛ/       | finissais  | /finisɛ/                   |
 |          |              |              | él   | -t        | finisèt      | /finisɛt/      | finissait  | /finisɛ/                   |
 |          |              |              | núz  | -õ        | finisèõ      | /finisɛɔ̃/     | finissions | /finisjɔ̃/                 |
 |          |              |              | vúz  | -z        | finisèz      | /finisɛz/      | finissiez  | /finisje/                  |
 |          |              |              | éluz | -t        | finisèt      | /finisɛt/      | finissaient| /finisɛ/                   |
 | 未来形   | G2(fini)     | T3(ra)       | jë   | -ø        | finira       | /finiʁa/       | finirai    | /finiʁe/                   |
-|          |              |              | tü   | -z        | finiraz      | /finiʁaz/      | finiras    | /finiʁa‿z/                 |
+|          |              |              | tü   | -ø        | finira       | /finiʁa/       | finiras    | /finiʁa/                   |
 |          |              |              | él   | -t        | finirat      | /finiʁat/      | finira     | /finiʁa/                   |
 |          |              |              | núz  | -õ        | finiraõ      | /finiʁaɔ̃/     | finirons   | /finiʁɔ̃/                  |
 |          |              |              | vúz  | -z        | finiraz      | /finiʁaz/      | finirez    | /finiʁe‿z/                 |

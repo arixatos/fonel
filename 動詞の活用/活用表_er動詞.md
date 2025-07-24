@@ -25,19 +25,19 @@ Fonel語における **「-er型動詞」** は、フランス語の第1群に�
 | 時制・法 | 語幹パターン | 接辞パターン | 人称 | 活用語尾  | Fonel活用形    | IPA（Fonel）   | 仏語形       | IPA（仏語・最長発音）       |
 |----------|--------------|--------------|------|-----------|----------------|----------------|--------------|-----------------------------|
 | 現在形   | G1(parl)     | T1(なし)     | jë   | -ø        | parl           | /paʁl/         | parle        | /paʁl/                      |
-|          |              |              | tü   | -z        | parlz          | /paʁlz/        | parles       | /paʁl‿z/                    |
+|          |              |              | tü   | -ø        | parl           | /paʁl/         | parles       | /paʁl/                      |
 |          |              |              | él   | -t        | parlt          | /paʁlt/        | parle        | /paʁl‿t/                    |
 |          |              |              | núz  | -õ        | parlõ          | /paʁlɔ̃/       | parlons      | /paʁ.lɔ̃/                   |
 |          |              |              | vúz  | -z        | parlz          | /paʁlz/        | parlez       | /paʁl‿z/（通常 /paʁle/）    |
 |          |              |              | éluz | -t        | parlt          | /paʁlt/        | parlent      | /paʁl‿t/                    |
 | 半過去   | G1(parl)     | T2(è)        | jë   | -ø        | parlè          | /paʁlɛ/        | parlais      | /paʁlɛ/                     |
-|          |              |              | tü   | -z        | parlèz         | /paʁlɛz/       | parlais      | /paʁlɛ‿z/                   |
+|          |              |              | tü   | -ø        | parlè          | /paʁlɛ/        | parlais      | /paʁlɛ/                     |
 |          |              |              | él   | -t        | parlèt         | /paʁlɛt/       | parlait      | /paʁlɛ‿t/                   |
 |          |              |              | núz  | -õ        | parlèõ         | /paʁlɛɔ̃/      | parlions     | /paʁljɔ̃/                   |
 |          |              |              | vúz  | -z        | parlèz         | /paʁlɛz/       | parliez      | /paʁljez/                   |
 |          |              |              | éluz | -t        | parlèt         | /paʁlɛt/       | parlaient    | /paʁlɛ‿t/                   |
 | 未来形   | G1(parl)     | T3(ra)       | jë   | -ø        | parlra         | /paʁlʁa/       | parlerai     | /paʁlʁe/                    |
-|          |              |              | tü   | -z        | parlraz        | /paʁlʁaz/      | parleras     | /paʁlʁa‿z/                  |
+|          |              |              | tü   | -ø        | parlra         | /paʁlʁa/       | parleras     | /paʁlʁa/                    |
 |          |              |              | él   | -t        | parlrat        | /paʁlʁat/      | parlera      | /paʁlʁa‿t/                  |
 |          |              |              | núz  | -õ        | parlraõ        | /paʁlʁaɔ̃/     | parlerons    | /paʁlʁɔ̃/                   |
 |          |              |              | vúz  | -z        | parlraz        | /paʁlʁaz/      | parlerez     | /paʁlʁe‿z/                  |
