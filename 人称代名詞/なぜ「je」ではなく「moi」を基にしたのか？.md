@@ -1,3 +1,9 @@
+---
+layout: default
+title: なぜ汎用形代名詞を「je」ではなく「moi」を基にしたのか
+parent: 人称代名詞
+nav_order: 1000
+---
 
 ### なぜ「je」ではなく「moi」を基にしたのか？
 
